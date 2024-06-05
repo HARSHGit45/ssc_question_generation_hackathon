@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Generator</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #71b7e6, #9b59b6);
+            color: #fff;
+        }
+        #container {
+            width: 90%;
+            max-width: 800px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        #response {
+            width: 100%;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            margin-bottom: 20px;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.5s ease, transform 0.5s ease;
+        }
+        #response.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        #input-container {
+            position: fixed;
+            bottom: 20px;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        #input-box {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #fff;
+            padding: 10px 20px;
+            border-radius: 50px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        #chapter {
+            width: 300px;
+            padding: 10px;
+            border: none;
+            border-radius: 50px;
+            outline: none;
+            margin-right: 10px;
+        }
+        button {
+            background: #71b7e6;
+            border: none;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 50px;
+            cursor: pointer;
+            outline: none;
+            transition: background 0.3s ease;
+        }
+        button:hover {
+            background: #9b59b6;
+        }
+        button:active {
+            background: #5e3996;
+        }
+        button#voice {
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="response">Here will be the response...</div>
+    </div>
+    <div id="input-container">
+        <div id="input-box">
+            <input type="text" id="chapter" placeholder="Enter the chapter name">
+            <button onclick="generateQuestions()">Generate Questions</button>
+            <button id="voice" onclick="startDictation()">🎤</button>
+        </div>
+    </div>
+
+    <script>
+        async function generateQuestions() {
+            const chapter = document.getElementById("chapter").value;
+            const responseDiv = document.getElementById("response");
+
+            responseDiv.classList.remove('visible');
+            responseDiv.textContent = "Processing...";
+
+            const response = await fetch('/generate_questions', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ chapter: chapter }),
+            });
+
+            const data = await response.json();
+            responseDiv.textContent = data.response;
+            responseDiv.classList.add('visible');
+        }
+
+        function startDictation() {
+            if (window.hasOwnProperty('webkitSpeechRecognition')) {
+                const recognition = new webkitSpeechRecognition();
+                recognition.continuous = false;
+                recognition.interimResults = false;
+                recognition.lang = "en-US";
+                recognition.start();
+
+                recognition.onresult = function(event) {
+                    document.getElementById("chapter").value = event.results[0][0].transcript;
+                    recognition.stop();
+                    generateQuestions();
+                };
+
+                recognition.onerror = function(event) {
+                    recognition.stop();
+                }
+            }
+        }
+    </script>
+</body>
+</html>
