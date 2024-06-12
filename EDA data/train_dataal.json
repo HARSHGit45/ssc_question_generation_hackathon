@@ -1,0 +1,2427 @@
+[
+    {
+        "prompt": "Generate questions based on quadratic equation chapter for 1 marks",
+        "expected_output": [
+            "Write the following quadratic equation in a standard form: 3x^2 = 10x + 7.",
+            "Write the quadratic equation whose roots are 2 and 3.",
+            "Find the value of a, b, c in the following quadratic equation: 2x^2 x 3 = 0",
+            "Verify whether 1 is the root of the quadratic equation: x^2 + 3x 4 = 0.",
+            "(x + 5)(x 2) = 0, find the roots of this quadratic equation.",
+            "If 3 is one of the root of the quadratic equation kx2 7x + 12 = 0, then k ="
+        ]
+    },
+    {
+        "prompt": "Generate questions based on quadratic equations chapter for 3 marks",
+        "expected_output": [
+            "Solve the following quadratic equation by completing square method: x^2 + 11x + 24 = 0",
+            "Solve the following quadratic equation by using formula method: 3q^2 2q = 8.",
+            "Solve the following quadratic equation using formula method: 6x^2 7x 1 = 0.",
+            "Solve the following quadratic equation by formula method: x^2 + 10x + 2 = 0",
+            "Solve the equation 4x^2 + 7x + 2 = 0 by using formula method.",
+            "Solve the following quadratic equation by factorization method: 3x^2 - 29x + 40 = 0."
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the term t10 of an A.P. : 4, 9, 14, [BLANK] question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=525Dwouk7a8",
+            "2. https://www.toppr.com/ask/question/find-the-term-t10-of-an-ap4-9-14/",
+            "3. Math is Fun - Arithmetic Sequences: https://www.mathsisfun.com/algebra/sequences-finding-term.html",
+            "4. Khan Academy - Arithmetic Sequences: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences/v/arithmetic-sequences"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of the determinant: [7/2 5/3] [3/2 1/2] question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/algebra/determinants.html",
+            "https://www.youtube.com/watch?v=Ip3X9LOh2dk",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:determinants-and-the-determinant-formula",
+            "https://en.wikipedia.org/wiki/Determinant"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the sample space for selecting a day randomly of the week question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=The%20three%20most%20common%20ways%20to%20find%20a,Create%20a%20Tree-Diagram.%203%20Use%20a%20Venn%20Diagram.",
+            "3. Khan Academy - Sample Spaces: https://www.khanacademy.org/math/probability/probability-geometry/probability-basics/a/sample-spaces"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on probability chapter for 4 marks",
+        "expected_output": [
+            "There are three boys and two girls. A committee of two is to be formed. Find the probability of events that the committee contains: a. at least one girl b. one boy and one girl c. only boys.",
+            "Three horses A, B and C are in a race, A is twice as likely to win as B and B is twice as likely to win as C. What are their probabilities of winning?",
+            "In a certain race there are three boys A, B, C. The winning probability of A is twice than B and the winning probability of B is twice than C. If P(A) + P(B) + P(C) = 1, then find the probability of each boy.",
+            "Two dice are thrown. Find the probability of getting: (a) The sum of the numbers on their upper faces is at least 9. (b) The sum of the numbers on their upper faces is 15. (c) The number of the upper face of the second die is greater than the number on the upper face of the first die.",
+            "Two digit numbers are formed using the digits 0, 1, 2, 3, 4, 5 where digits are not repeated. P is the event that the number so formed is even. Q is the event that the number so formed is greater than 50. R is the event that the number so formed is divisible by 3. Then write the sample space S and events P, Q, R using set notation.",
+            " Out of 100 students in a certain class, 70 students like Mathematics, 40 students like Science and 15 students like both Mathematics and Science. A student is selected at random. Find the probability that the student like Mathematics or Science."
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation by completing square method: x^2 + 11x + 24 = 0 question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=0IFPixtQpYM",
+            "2. https://www.chilimath.com/lessons/intermediate-algebra/solving-quadratic-equations-completing-square/",
+            "3. Khan Academy - Quadratic Formula: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on arithmetic progression chapter for 4 marks",
+        "expected_output": [
+            "A farmer borrows ` 1,000 and agrees to repay with a total interest of ` 140 in 12 instalments, each instalment being less than the preceding instalment by ` 10. What should be his first instalment?",
+            "The sum of the squares of five consecutive natural numbers is 1455. Find the numbers.",
+            "If the first term of an A.P. is p, second term is q and last term is r, then show that sum of all terms is (q+r-2p)*(p+r)/2(q-p)",
+            "The 11th term and the 21st term of an A.P. are 16 and 29 respectively then find: a. The first term and common difference. b. The 34th term. c. n such that tn = 55.",
+            " Find three consecutive terms in a G.P. such that the sum of the first two terms is 9 and the product of all the three terms is 216."
+        ]
+    },
+    {
+        "prompt": "Generate questions based on arithmetic progression chapter for 1 marks",
+        "expected_output": [
+            "Find next two terms of an A.P. 4, 9, 14,[BLANK]",
+            "State whether the following sequence is an A.P. or not? 1, 4, 7, 10, [BLANK]",
+            "For an A.P., t7 = 4, d = 4, then a =",
+            "Find second and third term of an A.P. whose first term is 2 and common difference is 2.",
+            "If S5 = 15 and S6 = 21, find t6.",
+            "For the given A.P. a = 3.5, d = 0, then tn =",
+            "For a sequence, if Sn = n/(n + 1)^2 then find the value of S10.",
+            "For an A.P. t3 = 8 and t4 = 12, find the common difference d.",
+            "Find the next two terms in the sequence: 1, 3, 7, 15, 31, .",
+            "Write the first two terms of the sequence whose nth term is tn = 3n 4.",
+            "In the A.P. 2, 2, 6, 10, common difference (d) is:",
+            "State whether the following sequence is an Arithmetic Progression or not: 3, 6, 12, 24,[BLANK] .",
+            "Write the next two terms of A.P. whose first term is 3 and the common difference is 4."
+        ]
+    },
+    {
+        "prompt": "Give reference for In the format of GSTIN there are _____ alpha-numerals. (A)15 (B)10 (C)16 (D)9 question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=4ONrHOzG5wo",
+            "https://www.cleartax.in/s/input-tax-credit-under-gst",
+            "https://www.bankbazaar.com/tax/gst-rates.html",
+            "https://en.wikipedia.org/wiki/Goods_and_Services_Tax_(India)"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on arithmetic progression chapter for 2 marks",
+        "expected_output": [
+            "First term and common difference of an A.P. are 12 and 4 respectively. If tn = 96, find n.",
+            "Write an A.P. whose first term is a = 10 and common difference d = 5.",
+            "Find the first two terms of the sequence for which Sn is given below: Sn = n^2 (n + 1)",
+            "Find n if the nth term of the following A.P. is 66: 3, 6, 9, 12, [BLANK]",
+            "Find the term t10 of an A.P. : 4, 9, 14, [BLANK]",
+            "State whether the following sequence is an A.P. or not: 1, 4, 7, 10, [BLANK]",
+            " Find first two terms of the sequence whose nth term is tn = 2n 5.",
+            "If for an A.P. the first term is 11 and the common difference is ( 2), then find first three terms of A.P.",
+            "A two digit number is formed with digits 2, 3, 5, 7, 9 without repetition. What is the probability that the number formed is an odd number?",
+            "Find the 19th term of the A.P. 7, 13, 19, 25, .",
+            "Decide whether the following sequence is an A.P. if so, find the 20th term of the progression: -12, -5, 2, 9, 16, 23, 30, [BLANK]",
+            "First term and common difference of an A.P. are 6 and 3 respectively. Find S27.",
+            "Find the 19th term of the following A.P.: 7, 13, 19, 25, .",
+            "Find first term of the sequence tn = 3n 2."
+        ]
+    },
+    {
+        "prompt": "Give reference for A three digit number is equal to 17 times the sum of its digits. If 198 is added to the number, the digits are interchanged. The addition of first and third digit is 1 less than middle digit. Find the number. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=2_vH14ApWW0",
+            "2. https://www.shaalaa.com/question-bank-solutions/a-three-digit-number-equal-17-times-sum-its-digits-if-198-added-number-digits-are-interchanged-addition-first-third-digit-1-less-middle-digit-find-number-algebraic-methods-solving-pair-linear-equations-substitution-method_1141",
+            "3. Khan Academy - Algebra: https://www.khanacademy.org/math/algebra"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Solve: 30 (x^2 + 1/x^2) - 77 (x - 1/x) - 12 = 0 question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=IlNAJl36-10",
+            "2. https://www.embibe.com/exams/methods-of-solving-quadratic-equations/",
+            "3. Refer The quadratic equations chapter and go through the practice sets",
+            "4. https://www.cuemath.com/algebra/quadratic-equations/",
+            "5. https://www.toppr.com/ask/question/solve-the-quadratic-equation-30-x2-1-x2-77-x-1-x-12-0/"
+        ]
+    },
+    {
+        "prompt": "Give reference for  The following is the frequency distribution of diameter of neem trees measured at 1 metre height from ground: Diameter (cm) No. of Trees Below 25 0 Below 50 26 Below 75 68 Below 100 203 Below 125 215 Below 150 220 Prepare frequency distribution. Draw less than type cumulative frequency curve, more than cumulative frequency curve on the same graph paper. Also find the median. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.onlinemath4all.com/less-than-and-more-than-cumulative-frequency-curves.html",
+            "2. https://www.youtube.com/watch?v=HoK7LcBP6uU",
+            "3. https://www.cuemath.com/data/cumulative-frequency/",
+            "4. https://www.toppr.com/ask/question/prepare-a-frequency-distribution-then-draw-less-than-and-more-than-cumulative-frequency-curves/",
+            "5. https://www.mathsisfun.com/data/cumulative-frequency.html",
+            "1. https://www.onlinemath4all.com/less-than-and-more-than-cumulative-frequency-curves.html",
+            "2. https://www.youtube.com/watch?v=HoK7LcBP6uU",
+            "3. https://www.cuemath.com/data/cumulative-frequency/",
+            "4. https://www.toppr.com/ask/question/prepare-a-frequency-distribution-then-draw-less-than-and-more-than-cumulative-frequency-curves/",
+            "5. https://www.mathsisfun.com/data/cumulative-frequency.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Decide whether 3/y - 4 = y is a quadratic equation or not. question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=DYnhls2Vp64",
+            "2. https://www.toppr.com/ask/question/whether-y-2-frac-1-y/",
+            "3. https://byjus.com/maths/quadratics/",
+            "4. refer the chapter arithmetic progression",
+            "5. https://www.cuemath.com/algebra/quadratic-equations/",
+            "6. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on arithmetic progression chapter for 3 marks",
+        "expected_output": [
+            "There is an auditorium with 35 rows of seats. There are 20 seats in the first row, 22 seats in the second row, 24 seats in the third row and so on. Find the number of seats in the twenty second row.",
+            "For an A.P., find S10 if a = 6 and d = 3.",
+            "How many three digit natural numbers are divisible by 5?",
+            "In an A.P. sum of three consecutive terms is 27 and their products is 504. Find the terms. (Assume that three consecutive terms in an A.P. are a d, a, a + d.)",
+            "Find the common difference of the following A.P.: 2, 4, 6, 8, ",
+            " For a given A.P. if a = 6 and d = 3, find S8"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on statistics chapter for 4 marks",
+        "expected_output": [
+            "The sales of salesmen in a week are given in the pie diagram. Study the diagram and answer the following questions. If the total sale due to salesman A is ` 18,000 then: a. Find the total sale. b. Find the sale of each salesman. c. Find the salesman with the highest sale. d. Find the difference between the highest sale and the lowest sale.",
+            "The following is the distribution of the size of certain farms from a taluka (tehasil): Size of Farms (in acres) Number of Farms 5 15 7 15 25 12 25 35 17 35 45 25 45 55 31 55 65 5 65 75 3 Find median size of farms.",
+            " The following is the frequency distribution of diameter of neem trees measured at 1 metre height from ground: Diameter (cm) No. of Trees Below 25 0 Below 50 26 Below 75 68 Below 100 203 Below 125 215 Below 150 220 Prepare frequency distribution. Draw less than type cumulative frequency curve, more than cumulative frequency curve on the same graph paper. Also find the median.",
+            "The following table shows ages of 300 patients getting medical treatment in a hospital on a particular day: Age (in years) | No. of Patients 10 20 | 60 20 30 | 42 30 40 | 55 40 50 | 70 50 60 | 53 60 70 | 20 Find the median age of the patient."
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation by factorization method: 3x^2 - 29x + 40 = 0. question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/solve-the-following-simultaneous-equations-using-cramer-s-rule-4m-6n-54-3m-2n-28-determinants-cramer-s-rule_49738",
+            "2. https://www.youtube.com/watch?v=LprQ_Id-8hE",
+            "3. https://www.mathsisfun.com/algebra/factoring-quadratics.html",
+            "4. https://www.intmath.com/algebra/quadratic-equation-factorization.php"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on arithmetic progression chapter for 5 marks",
+        "expected_output": [
+            "If the 9th term of an A.P. is zero, then prove that 29th term is double of 19th term.",
+            " The sum of first n terms of a sequence is (6^n - 5^n) / 5^n. Find its nth term. Examine whether the sequence is an A.P. or G.P.",
+            "If the sum of first p terms of an A.P. is equal to the sum of first q terms, then show that the sum of its first (p + q) terms is zero where p not equal to q.",
+            "Babubhai borrows ` 4,000 and agrees to repay with a total interest of ` 500 in 10 instalments, each instalment being less than the preceding instalment by ` 10. What should be the first and the last instalment?",
+            "If m times mth term of an A.P. is equal to n times its nth term, then show that (m + n)th term of the A.P. is zero.",
+            "Find the sum of all natural numbers between 100 and 1000 which are divisible by 12.",
+            "Find the sum of all numbers from 50 to 350 which are divisible by 6. Hence find the 15th term of that A.P.",
+            "The product of four consecutive natural numbers which are multiples of five is 15,000. Find those natural numbers."
+        ]
+    },
+    {
+        "prompt": "Generate questions based on statistics chapter for 1 marks",
+        "expected_output": [
+            "If fixi = 75 and fi = 15, then find the mean x.",
+            "Find the class mark of the class 35 - 39.",
+            "Find the median of: 66, 98, 54, 92, 87, 63, 72.",
+            "The following data give the number of students using different modes of transport: Modes of Transport : Bicycle |Bus | Walk |Train |Car Number of Students : 140 | 100 | 70 | 40 | 10 From this table, find the central angle ( ) for the Mode of Transport Bus .",
+            "Find the class mark of the classes 20 30 and 30 40.",
+            " The pie diagram shows percentage of persons according to the blood group. Answer the following question: i) Find the measure of central angle for blood group A.",
+            "The frequency distribution of the age of persons (in years) attending trekking camp is given below: Age (in years) Number of persons 15 19 16 20 24 60 25 29 50 30 34 30 35 39 5 Find the mid-point of the class 20 24."
+        ]
+    },
+    {
+        "prompt": "Give reference for A box contains 20 cards marked with numbers 1 to 20. One card is drawn at random. Write the event A using the number on the card is multiple of 4. Write S, n(S), A and n(A). question from probability chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://en.wikipedia.org/wiki/Probability",
+            "https://www.math-only-math.com/probability-problems.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Pawan Medicals supplies medicines. On some medicines the rate of GST is 12%, then what is the rate of CGST and SGST? question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=4ONrHOzG5wo",
+            "https://www.cleartax.in/s/input-tax-credit-under-gst",
+            "https://www.bankbazaar.com/tax/gst-rates.html",
+            "https://en.wikipedia.org/wiki/Goods_and_Services_Tax_(India)"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on statistics chapter for 2 marks",
+        "expected_output": [
+            " Find the mean of the data whose median is 128 and mode is 90.",
+            "Find the class mark of the classes 20 30 and 30 40.",
+            "If L = 10, f1 = 70, f 0 = 58, f 2 = 42, h = 2, then find the mode by using formula.",
+            " If the following information is to be shown in the form of pie diagram, then find the measures of the central angles corresponding to the age groups 5 15 years and 15 35 years: Age (in years) Population 0 5 10% 5 15 20% 15 35 40% 35 65 25% 65 and more 5%",
+            "Below is the given frequency distribution of words in an essay. Number of Words: 600 800, 800 1000, 1000 1200, 1200 1400, 1400 1600. Number of Candidates: 14, 22, 30, 18, 16. Find the mean number of words written.",
+            "For a certain frequency distribution, the value of Mean is 101 and Median is 100. Find the value of Mode.",
+            "For a certain frequency distribution, the values of Assumed mean (A) = 1300, fidi = 900 and fi = 100. Find the value of mean (x).",
+            "For a certain frequency distribution, the values of mean and median are 72 and 78 respectively. Find the value of mode.",
+            "For a certain frequency distribution, the value of mean is 15 and mode is 9. Find the value of median."
+        ]
+    },
+    {
+        "prompt": "Give reference for If + = 5 and ^3 + ^3 = 35, find the quadratic equation whose roots are and . question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=dI9dIhG5ygI",
+            "2. https://www.shaalaa.com/question-bank-solutions/if-5-3-3-35-find-quadratic-equation-whose-roots-are-quadratic-equations_1164",
+            "3. Khan Academy - Quadratic Equations: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on statistics chapter for 5 marks",
+        "expected_output": [
+            " The following frequency distribution gives the monthly consumption of electricity of 70 consumers of a locality: Monthly Consumption (Units) No. of Consumers 65 85 04 85 105 05 105 125 13 125 145 22 145 165 14 165 185 08 185 205 04 Find its mean and median.",
+            "Given below is the frequency distribution of driving speeds (in km/hour) of the vehicles of 400 college students: Speed (in km/hr) : 20 30, 30 40 , 40 50 , 50 60 ,60 70 No. of Students : 6 , 80, 156, 98, 60 Draw Histogram and hence the frequency polygon for the above data.",
+            " The following is the frequency distribution of diameter of neem trees measured at 1 metre height from ground: Diameter (cm) No. of Trees Below 25 0 Below 50 26 Below 75 68 Below 100 203 Below 125 215 Below 150 220 Prepare frequency distribution. Draw less than type cumulative frequency curve, more than cumulative frequency curve on the same graph paper. Also find the median.",
+            "The following table gives production yield per hectare of wheat of 100 farms of a village: Production Yield per Hectare (in kg) Number of Farms Below 20 8 20 25 12 25 30 20 30 35 25 35 40 22 40 45 8 45 50 5 Find mode of the data."
+        ]
+    },
+    {
+        "prompt": "Give reference for If the value of determinants |x -5| |3 4| is 31, then find the value of x. question from linear equations in two variables chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/find-the-value-of-the-following-determinant-4327-determinant-order-two_49880",
+            "2. https://www.youtube.com/watch?v=t_iyvy930ak",
+            "3. Khan Academy - Determinants: https://www.khanacademy.org/math/precalculus/precalc-matrices/determinants/v/determinants-introduction"
+        ]
+    },
+    {
+        "prompt": "Give reference for State whether the following sequence is an A.P. or not: 1, 4, 7, 10, [BLANK] question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=Rla4j4DeOO0",
+            "2. https://www.toppr.com/ask/question/state-whether-the-following-sequence-is-an-ap-or-not1/",
+            "3. https://www.khanacademy.org/math/algebra/sequences/arithmetic-sequences/v/intro-to-arithmetic-sequences",
+            "4. https://byjus.com/maths/arithmetic-sequence-formula/"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on quadratic equations chapter for 2 marks",
+        "expected_output": [
+            "Find the value of the polynomial 2x^3 + 2x, when x = 1.",
+            "Find the value of discriminant ( ) for the quadratic equation: x^2 + 7x + 6 = 0 .",
+            "Write the following equation in the form ax^2 + bx + c = 0, then write the values of a, b, c: 2y = 10 y^2.",
+            "Solve the following quadratic equation: x^2 + 8x + 15 = 0.",
+            "Solve the quadratic equation by factorisation method: x^2 + 15x + 54 = 0",
+            "Obtain a quadratic equation whose roots are 3 and 7.",
+            "If one root of the quadratic equation kx^2 7x + 5 = 0 is 1, then find the value of k.",
+            "If one of the roots of the quadratic equation x^2 7x + k = 0 is 4, then find the value of k.",
+            "Form the quadratic equation if its roots are 3 and 4."
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations: x + y = 4; 2x y = 2 question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/algebra/systems-linear-equations.html",
+            "https://www.youtube.com/watch?v=6kzvxd19bME"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Solve the following simultaneous equations: 10/x + y + 2/x - y = 4; 5/x + y - 5/3(x - y) = -2/3 question from linear equation in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=p15_GD_Eks0",
+            "2. https://byjus.com/maths/simultaneous-equations-questions/",
+            "3. Refer The chapter Linear equations in two variables from textbook",
+            "4. https://www.cuemath.com/algebra/simultaneous-linear-equations/",
+            "5. https://www.toppr.com/ask/question/solve-the-following-simultaneous-equations-10-x-y-2-x-y-4-5-x-y-5-3-x-y-2-3/"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equation in two variable chapter for 3 marks",
+        "expected_output": [
+            "Solve the following simultaneous equations using graphical method: x + y = 7; x y = 5.",
+            "Draw the graph of the equation x + 2y = 4. Find the area of the triangle formed by the line intersecting to X-axis and Y-axis.",
+            "Solve the following simultaneous equations by using Cramer s rule: 3x + 2y = 11, 7x 4y = 9",
+            "Draw the graph of the equation x + y = 4 and answer the following questions: a. Which type of triangle is formed by the line with X and Y-axes based on its sides. b. Find the area of that triangle.",
+            "Solve the following simultaneous equations using Cramer s rule: 3x 4y = 10, 4x + 3y = 5",
+            "Solve the following simultaneous equations using Cramer s rule: 4m + 6n = 54; 3m + 2n = 28"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on probability chapter for 3 marks",
+        "expected_output": [
+            "A two digit number is to be formed using the digits 0, 1, 2, 3. Repetition of the digits is allowed. Find the probability that a number so formed is a prime number.",
+            "One coin and a die are thrown simultaneously. Find the probability of the following events: Event A: To get a head and a prime number. Event B: To get a tail and an odd number.",
+            "A balloon vendor has 2 red, 3 blue and 4 green balloons. He wants to choose one of them at random to give it to Pranali. What is the probability of the event that Pranali gets: 1. a red balloon. 2. a blue balloon.",
+            " A die is thrown. Find the probability of the following events: a. getting a number greater than 3 on the upper surface b. getting an even number on the upper surface.",
+            "A two-digit number is formed with digits 2, 3, 5, 7, 9 without repetition. What is the probability of the following events? Event A: The number formed is an odd number. Event B: The number formed is a multiple of 5.",
+            "Two coins are tossed simultaneously. Write the sample space S and the number of sample points n(S). Write the following events using set notation and mention the total number of elements in each of them: a. A is the event of getting at most one tail. b. D is the event of getting no head",
+            "There are three boys and two girls. A committee of two is to be formed. Find the probability of the following events: Event A: The committee contains at least one boy. Event B: The committee contains one boy and one girl.",
+            "If one coin is tossed, write the sample space S .",
+            "If two coins are tossed, then find the probability of the event that at the most one tail turns up.",
+            "Two dice are thrown. Find the probability of the event that the product of numbers on their upper faces is 12",
+            "A die is thrown, find the probability of the event of getting an odd number."
+        ]
+    },
+    {
+        "prompt": "Give reference for If 3 is one of the root of the quadratic equation kx2 7x + 12 = 0, then k = question from quadratic equation chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=6Dgnl8ChnaU",
+            "https://www.mathsisfun.com/algebra/quadratic-equation.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://byjus.com/maths/quadratic-equation/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations by using Cramer s rule: 3x + 2y = 11, 7x 4y = 9 question from linear equation in two variable chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/solve-the-following-simultaneous-equations-using-cramer-s-rule-4m-6n-54-3m-2n-28-determinants-cramer-s-rule_49738",
+            "2. https://www.youtube.com/watch?v=LprQ_Id-8hE",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-graphs",
+            "4. https://www.cuemath.com/algebra/cramers-rule/"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on quadratic equation chapter for 2 marks",
+        "expected_output": [
+            "Solve the following quadratic equation by factorization method: 4x^2 9 = 0.",
+            " Solve by factorization method: y^2 36 = 0.",
+            "Solve the following quadratic equation using factorization method: x^2 + 11x + 24 = 0.",
+            "Solve the following quadratic equation using factorization method: x^2 + x 20 = 0",
+            "Solve the following quadratic equation by factorization method x^2 7x + 12 = 0."
+        ]
+    },
+    {
+        "prompt": "Give reference for Amit saves certain amount every month in a specific way. In the first month he saves 200, in the second month 250, in the third month 300 and so on. How much will be his total savings in 17 months? question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.investopedia.com/articles/pf/06/annual_savings.asp",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://en.wikipedia.org/wiki/Personal_finance"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the sum of all numbers from 50 to 350 which are divisible by 6. Hence find the 15th term of that A.P. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=Fq2rGXwkL7c",
+            "2. https://www.shaalaa.com/question-bank-solutions/find-the-sum-of-all-numbers-from-50-to-350-which-are-divisible-by-4-also-find-the-15th-term-arithmetic-progressions-examples-and-solutions_96824",
+            "3. Khan Academy - Arithmetic and Pre-Algebra: https://www.khanacademy.org/math/arithmetic"
+        ]
+    },
+    {
+        "prompt": "Give reference for  The pie diagram shows percentage of persons according to the blood group. Answer the following question: i) Find the measure of central angle for blood group A. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.toppr.com/ask/question/the-pie-diagram-shows-percentage-of-persons-according-to-the/",
+            "2. https://www.youtube.com/watch?v=oYrj9zLwxMY",
+            "3. Refer Statistics Chapter from textbook and go through the practice sets of pie charts",
+            "4. https://www.cuemath.com/data/pie-chart/",
+            "5. https://www.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-visualizing-data/v/pie-charts"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on probability chapter for 1 marks",
+        "expected_output": [
+            "There are 15 tickets bearing the numbers from 1 to 15 in a bag and one ticket is drawn from this bag at random. Write the sample space (S) and n(S).",
+            "If n(A) = 2, P(A) = 1 / 5 , then n(S) = ?",
+            "If a die is rolled, what is the probability that number appearing on upper face is less than 2?",
+            "If S = {2, 4, 6, 8, 10, 12} and A = {4, 8, 12}, find A .",
+            "Write the sample space for selecting a day randomly of the week",
+            "Write the sample space when a die is thrown.",
+            "If n(A) = 2, P(A) = 1/5 , then n(S) =",
+            "A card is drawn from the pack of 25 cards labelled with numbers 1 to 25. Write the sample space for this random experiment.",
+            " A coin is tossed , write the sample space S ."
+        ]
+    },
+    {
+        "prompt": "Generate questions based on statistics chapter for 3 marks",
+        "expected_output": [
+            "Draw a frequency polygon for the following frequency distribution: Rainfall (in mm) 20 25, 25 30, 30 35, 35 40, 40 45, 45 50. No. of Years 2, 5, 8, 12, 10, 7",
+            "The following is the frequency distribution of waiting time at ATM centre; draw histogram to represent the data: Waiting time (in seconds) Number of Customers 0 30 15 30 60 23 60 90 64 90 120 50 120 150 5",
+            "A survey was conducted for 180 people in a city. 70 ate Pizza, 60 ate burgers and 50 ate chips. Draw a pie diagram for the given information",
+            "Represent the following data by Histogram: Price of Sugar per kg (in rupees) : 18 20 |20 22 |22 24 |24 26 |26 28 |28 30 Number of Weeks: 4 |8 |22 |12 |8 |6",
+            "The measurements (in mm) of the diameters of the head of the screws are given below: Diameter (in mm): 33 35 | 36 38 | 39 41 | 42 44 | 45 47. No. of screws: 9 | 21 | 30 | 20 | 18. Calculate mean diameter of head of a screw by Assumed Mean Method .",
+            "Below is given the distribution of money (in `) collected by students for Flood Relief Fund: Money (in Ruppees) : 0 10| 10 20 |20 30 |30 40 |40 50 No. of Students : 5 |7 |5 |2 |6 Find mean of money (in `) collected by a student by using Assumed Mean Method ",
+            "The marks scored by students in Mathematics in a certain examinations are given below: Marks Scored 0 20, 20 40, 40 60, 60 80, 80 100. Number of students 3, 8, 15, 17, 7. Draw histogram for the above data.",
+            "In the given figure, the pie diagram represents the amount spent on different sports by a school administration in a year. If the money spent on football is 9,000, answer the following questions: a. What is the total amount spent on sports? b. What is the amount spent on cricket? (cricket : 160 , kabaddi : 55 , football 45 , hockey 100 )",
+            "Area under different crops in a certain village is given below. Represent it by a pie diagram: Crop | Area in Hectares Jowar | 40 Wheat | 60 Sugarcane | 50 Vegetables | 30"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on quadratic equations chapter for 4 marks",
+        "expected_output": [
+            "If a + b = 5 and a^ 3+ b^3 = 35, find the quadratic equation whose roots are a and b.",
+            "If + = 5 and ^3 + ^3 = 35, find the quadratic equation whose roots are and ."
+        ]
+    },
+    {
+        "prompt": "Give reference for If 3x + 5y = 9 and 5x + 3y = 7, then find the value of x + y. question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.math-only-math.com/solving-linear-equations-in-two-variables-using-elimination-method.html",
+            "https://www.mathsisfun.com/algebra/systems-linear-equations.html",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on quadratic equations chapter for 1 marks",
+        "expected_output": [
+            "Find the values of a, b, c for the quadratic equation 2x^2 = x + 3 by comparing with standard form ax^2 + bx + c = 0",
+            "If one root of the quadratic equation is 3 2 5 , then write another root of the equation.",
+            "For the quadratic equation x^2 + 10x 7 = 0, the values of a, b, c are:",
+            "Write the following polynomial in coefficient form: 2x^3 + x^2 3x + 4.",
+            "Find the values of a and b from the quadratic equation 2x^2 5x + 7 = 0.",
+            " Write the following quadratic equation 7 4x x^2 = 0 in the standard form.",
+            "Decide whether 3/y - 4 = y is a quadratic equation or not.",
+            "State whether the given equation is quadratic or not. Give reason. 5/4 m^2 7 = 0."
+        ]
+    },
+    {
+        "prompt": "Give reference for Two taps together can fill a tank completely in 3 (1/13) minutes. The smaller tap takes 3 minutes more than the bigger tap to fill the tank. How much time does each tap take to fill the tank completely? question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/algebra/linear-equations.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-equations",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Complete the following activity; find the value of x: 5x + 3y = 9 (I) 2x 3y = 12 (II) question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fiTwar7mFwM",
+            "https://www.mathsisfun.com/algebra/systems-linear-equations.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-equations/x2f8bb11595b61c86:solving-systems-of-equations-graphically/v/graphical-systems-of-equations-example"
+        ]
+    },
+    {
+        "prompt": "Give reference for In the A.P. 2, 2, 6, 10, common difference (d) is: question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=bBo1sBilH_I",
+            "https://www.math-only-math.com/arithmetic-progression.html",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://en.wikipedia.org/wiki/Arithmetic_progression"
+        ]
+    },
+    {
+        "prompt": "Give reference for If L = 10, f1 = 70, f 0 = 58, f 2 = 42, h = 2, then find the mode by using formula. question from statistics chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=nD-LAmPzT0k",
+            "https://www.mathsisfun.com/data/mode.html",
+            "https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation/v/constructing-a-density-curve",
+            "https://en.wikipedia.org/wiki/Mode_(statistics)"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equations in two variable chapter for 4 marks",
+        "expected_output": [
+            "Two taps together can fill a tank completely in 3 (1/13) minutes. The smaller tap takes 3 minutes more than the bigger tap to fill the tank. How much time does each tap take to fill the tank completely?",
+            " Solve the following simultaneous equations: 1/x + 1/y = 8; 4/x - 2/y = 2.",
+            "The sum of the areas of two squares is 400 sq.m. If the difference between their perimeters is 16 m, find the sides of two squares."
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equation in two variable chapter for 2 marks",
+        "expected_output": [
+            "If 7x + 5y = 11 and 5x + 7y = 13, find x + y.",
+            "Complete the following activity; find the value of x: 5x + 3y = 9 (I) 2x 3y = 12 (II)",
+            "If the point (a, 3) lies on the graph of the equation 5x + 2y = 4, then find a.",
+            "Solve the following simultaneous equations: x + y = 4; 2x y = 2",
+            "ABCD is a rectangle. Write two simultaneous equations using information given below in the diagram, in the form of ax + by = c:",
+            "If 17x + 15y = 11 and 15x + 17y = 21, then find the value of x y."
+        ]
+    },
+    {
+        "prompt": "Give reference for The product of four consecutive natural numbers which are multiples of five is 15,000. Find those natural numbers. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=mk2gJG0IJ5c",
+            "2. https://www.toppr.com/ask/question/the-product-of-four-consecutive-natural-numbers-which-are-multiples/",
+            "3. Khan Academy - Arithmetic Sequences: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences/v/recognizing-arithmetic-sequences",
+            "4. Purplemath - Arithmetic Sequences: https://www.purplemath.com/modules/series.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for In the given figure, the pie diagram represents the amount spent on different sports by a school administration in a year. If the money spent on football is 9,000, answer the following questions: a. What is the total amount spent on sports? b. What is the amount spent on cricket? (cricket : 160 , kabaddi : 55 , football 45 , hockey 100 ) question from statistics chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/data/pie-charts.html",
+            "https://www.mathsisfun.com/data/probability.html",
+            "https://www.mathsisfun.com/data/data-interpretation.html",
+            "https://www.mathwarehouse.com/statistics/"
+        ]
+    },
+    {
+        "prompt": "Give reference for The following table shows ages of 300 patients getting medical treatment in a hospital on a particular day: Age (in years) | No. of Patients 10 20 | 60 20 30 | 42 30 40 | 55 40 50 | 70 50 60 | 53 60 70 | 20 Find the median age of the patient. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. Khan Academy - Descriptive Statistics: https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data"
+        ]
+    },
+    {
+        "prompt": "Give reference for A boat takes 10 hours to travel 30 km upstream and 44 km downstream, but it takes 13 hours to travel 40 km upstream and 55 km downstream. Find the speed of the boat in still water and the speed of the stream. question from linear equations in two variables chapter",
+        "expected_output": [
+            "https://www.math-only-math.com/speed-of-stream-problems.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-of-equations-by-substitution/v/solving-systems-by-substitution",
+            "https://www.mathsisfun.com/algebra/systems-linear-equations.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Sangeeta s monthly income is 25,000. She spent 90% of her income and donated 3% for socially useful causes. How much money did she save? question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.moneycrashers.com/save-money-reach-financial-goals/",
+            "https://www.investopedia.com/articles/pf/06/savingsgoals.asp",
+            "https://www.policybazaar.com/savings-plans/"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on financial planning chapter for 1 marks",
+        "expected_output": [
+            " Pawan Medicals supplies medicines. On some medicines the rate of GST is 12%, then what is the rate of CGST and SGST?",
+            "If the face value of a share is 100 and market value is 150. If rate of brokerage is 2%, find brokerage paid on one share",
+            "The tax levied by Central Government for trading within a state is:",
+            "For computation of income tax which is the assessment year of financial year 01 04 2016 to 31 03 2017?",
+            "In the format of GSTIN, there are _______ alpha-numerals",
+            "In the format of GSTIN there are _____ alpha-numerals. (A)15 (B)10 (C)16 (D)9"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equations in two variable chapter for 3 marks",
+        "expected_output": [
+            "The co-ordinates of the point of intersection of lines ax + by = 9 and bx + ay = 5 is (3, 1). Find the values of a and b.",
+            "Solve the following simultaneous equations graphically: x + y = 0; 2x y = 9.",
+            "Solve the following simultaneous equations by using Cramer s rule: 3x y = 7; x + 4y = 11.",
+            " The perimeter of an isosceles triangle is 44 cm. The length of its congruent sides is 4 cm more than its base. Find the lengths of all the sides.",
+            " Solve the following simultaneous equations by using graphical method: x + y = 3; x y = 1.",
+            "The denominator of a fraction is 4 more than twice its numerator. Denominator becomes 12 times the numerator, if both the numerator and the denominator are reduced by 6, find the fraction."
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of the polynomial 2x^3 + 2x, when x = 1. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=3i1r6X4dfLs",
+            "https://www.mathsisfun.com/algebra/polynomials.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:polynomials/v/x2f8bb11595b61c86:an-introduction-to-polynomials",
+            "https://en.wikipedia.org/wiki/Polynomial"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equations in two variable chapter for 5 marks",
+        "expected_output": [
+            "If the cost of bananas is increased by ` 10 per dozen, one can get 3 dozen less for ` 600. Find the original cost of one dozen of bananas.",
+            "Draw the graphs representing the equations 4x + 3y = 24 and 3y = 4x + 24 on the same graph paper. Write the co-ordinates of the point of intersection of these lines and find the area of the triangle formed by these lines on the X-axis.",
+            "Solve the following simultaneous equations: 1/3x - 1/4y + 1 = 0 ; 1/5x + 1/2y = 4/15."
+        ]
+    },
+    {
+        "prompt": "Give reference for The sum of the areas of two squares is 400 sq.m. If the difference between their perimeters is 16 m, find the sides of two squares. question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=xDhbGqKdLoU",
+            "https://byjus.com/maths/linear-equations-in-two-variables/",
+            "https://www.mathplanet.com/education/algebra-1/linear-systems/linear-systems-in-two-variables",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for The sum of the squares of five consecutive natural numbers is 1455. Find the numbers. question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=ph5WTzYl_Gk",
+            "https://www.math-only-math.com/sum-of-first-n-terms-of-an-ap.html",
+            "https://byjus.com/maths/sum-of-first-n-terms-of-an-ap/",
+            "https://www.toppr.com/guides/maths/sum-of-first-n-terms-of-an-ap-formula/"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Solve the following simultaneous equations by using graphical method: x + y = 3; x y = 1. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k-_Z67HFK_A",
+            "2. https://www.onlinemathlearning.com/systems-of-equations.html",
+            "3. https://www.cuemath.com/algebra/graphical-method-of-solving-linear-equations/",
+            "4. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:graphs-of-systems-of-equations/v/graphings-systems-of-equations",
+            "5. https://www.toppr.com/ask/question/solve-the-following-simultaneous-equations-by-using-graphical-method-x-y-3-x/"
+        ]
+    },
+    {
+        "prompt": "Give reference for In a Mahila Bachat Gat Kavita invested from the first day of month 20 on first day, 40 on second day and 60 on third day. If she saves like this, then what would be her total saving in the month of February 2020? question from financial planning chapter",
+        "expected_output": [
+            "https://www.moneycrashers.com/financial-planning-save-money-control-debt/",
+            "https://www.investopedia.com/financial-planning-5117202",
+            "https://www.forbes.com/financial-planning/",
+            "https://www.moneysmart.gov.au/tools-and-resources/calculators-and-tools/saving-goals-calculator"
+        ]
+    },
+    {
+        "prompt": "Give reference for If one root of the quadratic equation is 3 2 5 , then write another root of the equation. question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=FP8Sa2a5r0c",
+            "2. https://www.shaalaa.com/question-bank-solutions/if-one-root-quadratic-equation-3-2-5-then-write-another-root-equation-nature-of-roots-of-a-quadratic-equation_11454",
+            "3. https://byjus.com/maths/quadratic-equation/",
+            "4. https://www.mathsisfun.com/algebra/quadratic-equation.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations using Cramer s rule: 4x + 3y = 18; 3x 2y = 5. question from linear equations in two variables chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/algebra/systems-linear-equations-determinants.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-equations/x2f8bb11595b61c86:solving-systems-with-determinants/v/solving-linear-systems-with-determinants",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations#Determinant_method"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations using graphical method: x + y = 7; x y = 5. question from linear equation in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k-_Z67HFK_A",
+            "2. https://byjus.com/maths/graphing-of-linear-equations/",
+            "3. Khan Academy - Systems of Equations: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations graphically: x + y = 0; 2x y = 9. question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/algebra/graphical-solution-linear-equations.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-equations",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations#Graphical_method"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Write the following quadratic equation 7 4x x^2 = 0 in the standard form. question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=fYxZz05vHmw",
+            "2. https://www.geeksforgeeks.org/standard-form-of-quadratic-equation/",
+            "3. Refer The quadratic equations chapter and go through the practice sets",
+            "4. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:standard-form/a/quadratic-functions-in-standard-form",
+            "5. https://www.cuemath.com/algebra/standard-form-of-quadratic-equation/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find next two terms of an A.P. 4, 9, 14,[BLANK] question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.khanacademy.org/math/algebra/sequences/arithmetic-sequences/v/introduction-to-arithmetic-sequences",
+            "2. https://www.youtube.com/watch?v=TRTx5hYH-7A",
+            "3. https://www.mathsisfun.com/algebra/sequences-sums-arithmetic.html",
+            "4. https://en.wikipedia.org/wiki/Arithmetic_progression"
+        ]
+    },
+    {
+        "prompt": "Give reference for If S = {2, 4, 6, 8, 10, 12} and A = {4, 8, 12}, find A . question from probability chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/sets/set-theory.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/",
+            "https://www.coursera.org/browse/data-science/probability-and-statistics"
+        ]
+    },
+    {
+        "prompt": "Give reference for Two numbers differ by 3. The sum of the greater number and twice the smaller number is 15. Find the smaller number. question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/algebra/linear-equations.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-equations",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the sample space when a die is thrown. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=wDNFlgIFn04",
+            "2. https://www.youtube.com/watch?v=EU8p-3_e8Mk",
+            "3. https://math.libretexts.org/Under_Construction/Purgatory/MAT_1320_Finite_Mathematics/06%3A_Probability/6.01%3A_Sample_Spaces_and_Probability#:~:text=A%20sample%20space%20of%20an%20experiment%20is%20the,%7B%201%2C%202%2C%203%2C%204%2C%205%2C%206%20%7D.",
+            "4. https://www.toppr.com/ask/question/write-the-sample-space-when-a-die-is-thrown/",
+            "5. https://www.mathsisfun.com/data/probability.html",
+            "6. https://www.cuemath.com/probability/sample-space/"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on financial planning chapter for 2 marks",
+        "expected_output": [
+            "Courier service agent charged total 590 to courier a parcel from Nashik to Nagpur. In the tax invoice taxable value is 500 on which CGST is 45 and SGST is 45. Find the rate of GST charged for this service.",
+            "Smita has invested 12,000 to purchase shares of FV 10 at a premium of 2. Find the number of shares she purchased.",
+            "Sangeeta s monthly income is 25,000. She spent 90% of her income and donated 3% for socially useful causes. How much money did she save?"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equation in two variable chapter for 1 marks",
+        "expected_output": [
+            "Find the value of x + y, if 12x + 13y = 29 and 13x + 12y = 21",
+            "If x + y = 5 and x = 3, then find the value of y.",
+            "Find the value of the following determinant: [4 3] [2 7]",
+            "To draw the graph of 4x + 5y = 19, find y when x = 1:",
+            "To draw the graph of x + 2y = 4, find x when y = 1:"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of a, b, c in the following quadratic equation: 2x^2 x 3 = 0 question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=klfnqjjHlZ8",
+            "2. https://www.cuemath.com/algebra/quadratic-equations/",
+            "3. Khan Academy - Solving Quadratic Equations by Factoring: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:solving-quadratics-by-factoring/v/solving-quadratic-equations-by-factoring"
+        ]
+    },
+    {
+        "prompt": "Give reference for ABCD is a rectangle. Write two simultaneous equations using information given below in the diagram, in the form of ax + by = c: question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=ukBhFXFoAWw",
+            "https://www.mathsisfun.com/geometry/rectangle.html",
+            "https://www.mathplanet.com/education/geometry/polygons/rectangles"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on probability chapter for 2 marks",
+        "expected_output": [
+            "A box contains 20 cards marked with numbers 1 to 20. One card is drawn at random. Write the event A using the number on the card is multiple of 4. Write S, n(S), A and n(A).",
+            "A die is thrown, then write the sample space (S) and number of sample points n(S) and also write event A of getting numbers multiple of 3 on the upper face and write n(A).",
+            "Two digit numbers are formed using digits 2, 3 and 5 without repeating a digit. Write the sample space.",
+            " Find the sample space S and number of sample points n(S) when two coins are tossed.",
+            "A card is drawn from a well shuffled pack of 52 playing cards. Find the probability of the event, the card drawn is a red card.",
+            "A die is thrown. If A is an event of getting an odd number then write the sample space and event A in set notation.",
+            "A card is drawn from well-shuffled pack of 52 playing cards. Find the probability that the card drawn is a face card.",
+            "Two coins are tossed simultaneously. Write the sample space (S), n(S), the following event A using set notation and n(A), where A is the event of getting at least one head. ",
+            "Two coins are tossed simultaneously. Complete the following activity of writing the sample space (S) and expected outcomes of the events: a. Event A : to get at least one head. b. Event B : to get no head.",
+            "A die is thrown, then find the probability of the following events: A is an Event: getting a number divisible by 3. B is an Event: getting a number less than 5."
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equations in two variable chapter for 2 marks",
+        "expected_output": [
+            "Write the equation of X-axis. Hence, find the point of intersection of the graph of the equation x + y = 5 with the X-axis.",
+            "If the point A(2, 3) lies on the graph of the equation 5x + ay = 19, then find a.",
+            " Solve the following simultaneous equations by using Cramer s rule: x + y = 10; x y = 2.",
+            "Find the value of k for which the given simultaneous equations have infinitely many solutions: kx + 4y = 10; 3x + 2y = 5.",
+            "Two numbers differ by 3. The sum of the greater number and twice the smaller number is 15. Find the smaller number.",
+            "If [4 5] [m 3] = 22, then find the value of m.",
+            "Find the value of the determinant: [7/2 5/3] [3/2 1/2]"
+        ]
+    },
+    {
+        "prompt": "Give reference for If n(A) = 2, P(A) = 1/5 , then n(S) = question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=G5sAIcqx7bQ",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://en.wikipedia.org/wiki/Probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for For a certain frequency distribution, the value of Mean is 101 and Median is 100. Find the value of Mode. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. Khan Academy - Descriptive Statistics: https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write any one solution of equation x + 2y = 7. question from linear equations in two variables chapter",
+        "expected_output": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations-methods",
+            "https://www.mathsisfun.com/algebra/linear-equations.html",
+            "https://www.purplemath.com/modules/systlin1.htm",
+            "https://www.ck12.org/algebra/graphing-linear-equations/"
+        ]
+    },
+    {
+        "prompt": "Give reference for State whether the following sequence is an A.P. or not? 1, 4, 7, 10, [BLANK] question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=Rla4j4DeOO0",
+            "2. https://www.toppr.com/ask/question/state-whether-the-following-sequence-is-an-ap-or-not1/",
+            "3. Khan Academy - Arithmetic Sequences: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences/v/recognizing-arithmetic-sequences",
+            "4. Purplemath - Arithmetic Sequences: https://www.purplemath.com/modules/series.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for The denominator of a fraction is 4 more than twice its numerator. Denominator becomes 12 times the numerator, if both the numerator and the denominator are reduced by 6, find the fraction. question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=QGgZh8rxavQ",
+            "https://www.mathsisfun.com/algebra/equations-solving.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:two-variable-linear-equations/x2f8bb11595b61c86:system-of-equations-word-problems/v/dependent-and-inconsistent-systems-of-equations",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on financial planning chapter for 4 marks",
+        "expected_output": [
+            "In a Mahila Bachat Gat Kavita invested from the first day of month 20 on first day, 40 on second day and 60 on third day. If she saves like this, then what would be her total saving in the month of February 2020?",
+            "One person borrows 4,000 and agrees to repay with a total interest of 500 in 10 instalments. Each instalment being less than the preceding instalment by 10. What should be the first and the last instalments?"
+        ]
+    },
+    {
+        "prompt": "Give reference for One coin and a die are thrown simultaneously. Find the probability of the following events: Event A: To get a head and a prime number. Event B: To get a tail and an odd number. question from probability chapter",
+        "expected_output": [
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://www.probabilitycourse.com/",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.youtube.com/watch?v=uzkc-qNVoOk"
+        ]
+    },
+    {
+        "prompt": "Give reference for  The sum of first n terms of a sequence is (6^n - 5^n) / 5^n. Find its nth term. Examine whether the sequence is an A.P. or G.P. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=YFmX5gRyT-M",
+            "2. https://www.toppr.com/ask/question/the-sum-of-first-n-terms-of-a-sequence-is/",
+            "3. https://www.cuemath.com/algebra/sum-of-n-terms-of-sequence/",
+            "4. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences/v/arithmetic-sequences",
+            "5. https://www.embibe.com/exams/arithmetic-progression/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the following quadratic equation in a standard form: 3x^2 = 10x + 7. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=fYxZz05vHmw&t=8s",
+            "2. https://www.cuemath.com/algebra/standard-form-of-quadratic-equation/",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics/x2f8bb11595b61c86:intro-to-quadratics/v/standard-form-to-vertex-form",
+            "4. https://www.mathsisfun.com/algebra/quadratic-equation.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for In a certain race there are three boys A, B, C. The winning probability of A is twice than B and the winning probability of B is twice than C. If P(A) + P(B) + P(C) = 1, then find the probability of each boy. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=V6igDpX_0Tw",
+            "2. https://www.shaalaa.com/question-bank-solutions/in-a-certain-race-there-are-three-boys-a-b-c-the-winning-probability-of-a-is-twice-than-b-and-the-winning-probability-of-b-is-twice-than-c-if-p-a-p-b-p-c-1-then-find-the-probabilities-basic-ideas-of-probability_96852",
+            "3. Khan Academy - Probability: https://www.khanacademy.org/math/probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Find the mean of the data whose median is 128 and mode is 90. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. https://www.cuemath.com/statistics/mean-median-mode-formula/",
+            "4. https://www.toppr.com/ask/question/the-mean-median-and-mode-of-a-data-set-are-related-by-the-formula/"
+        ]
+    },
+    {
+        "prompt": "Give reference for On certain article if rate of CGST is 9%, then what is the rate of SGST? question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=nr5j5baxBR4",
+            "https://www.investopedia.com/terms/g/goodsandservicestax.asp",
+            "https://cleartax.in/s/what-is-gst"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equations in two variables chapter for 1 marks",
+        "expected_output": [
+            "If Dx = 25, D = 5 are the values of the determinants for certain simultaneous equations in x and y, find x.",
+            "Find the value of the determinant: |4 -2| |3 1|",
+            "Write any one solution of equation x + 2y = 7."
+        ]
+    },
+    {
+        "prompt": "Give reference for  For a given A.P. if a = 6 and d = 3, find S8 question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=YZNyPBkLRrE",
+            "2. https://www.shaalaa.com/question-bank-solutions/find-s10-if-a-6-and-d-3-sum-of-first-n-terms-of-an-arithmetic-progressions_205444",
+            "3. https://www.cuemath.com/numbers/sum-of-n-terms-of-ap/",
+            "4. https://www.toppr.com/ask/question/for-an-arithmetic-progression-if-a-6-d-3-find-s8/",
+            "5. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:sum-of-arithmetic-sequences/v/sum-of-arithmetic-sequence"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Find the sample space S and number of sample points n(S) when two coins are tossed. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=The%20three%20most%20common%20ways%20to%20find%20a,Create%20a%20Tree-Diagram.%203%20Use%20a%20Venn%20Diagram.",
+            "3. https://www.toppr.com/ask/question/write-the-sample-space-for-tossing-two-coins/",
+            "4. https://www.cuemath.com/probability/sample-space/",
+            "5. https://www.khanacademy.org/math/statistics-probability/probability-library"
+        ]
+    },
+    {
+        "prompt": "Give reference for The 11th term and the 21st term of an A.P. are 16 and 29 respectively then find: a. The first term and common difference. b. The 34th term. c. n such that tn = 55. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=LynD4v0Upq0",
+            "2. https://www.shaalaa.com/question-bank-solutions/the-11th-term-21st-term-ap-are-16-29-respectively-then-find-arithmetic-progression_1130https://www.shaalaa.com/question-bank-solutions/the-11th-term-21st-term-ap-are-16-29-respectively-then-find-arithmetic-progression_1130",
+            "3. Khan Academy - Sequences and Series: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of the determinant: |4 -2| |3 1| question from linear equations in two variables chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/find-the-value-of-the-following-determinant-4327-determinant-order-two_49880",
+            "2. https://www.youtube.com/watch?v=t_iyvy930ak",
+            "3. Khan Academy - Determinants: https://www.khanacademy.org/math/precalculus/precalc-matrices/determinants/v/determinants-introduction"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations: 1/3x - 1/4y + 1 = 0 ; 1/5x + 1/2y = 4/15. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/solve-the-following-simultaneous-equations-using-cramer-s-rule-4m-6n-54-3m-2n-28-determinants-cramer-s-rule_49738",
+            "2. https://www.youtube.com/watch?v=LprQ_Id-8hE",
+            "3. https://www.mathsisfun.com/algebra/systems-linear-equations-matrices.html",
+            "4. https://www.intmath.com/matrices-determinants/linear-equations-matrices.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for To draw the graph of x + 2y = 4, find x when y = 1: question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=6Dgnl8ChnaU",
+            "https://www.mathsisfun.com/algebra/graphing-linear-equations.html",
+            "https://www.khanacademy.org/math/algebra/two-var-linear-equations",
+            "https://www.mathplanet.com/education/algebra-1/linear-equations-and-inequalitites/the-coordinate-system-and-graphing-lines"
+        ]
+    },
+    {
+        "prompt": "Give reference for  If the following information is to be shown in the form of pie diagram, then find the measures of the central angles corresponding to the age groups 5 15 years and 15 35 years: Age (in years) Population 0 5 10% 5 15 20% 15 35 40% 35 65 25% 65 and more 5% question from statistics chapter",
+        "expected_output": [
+            "1. https://www.toppr.com/ask/question/the-pie-diagram-shows-percentage-of-persons-according-to-the/",
+            "2. https://www.youtube.com/watch?v=oYrj9zLwxMY",
+            "3. Refer Statistics Chapter from textbook and go through the practice sets of pie charts",
+            "4. https://www.cuemath.com/data/pie-chart/",
+            "5. https://www.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-visualizing-data/v/pie-charts"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the next two terms of A.P. whose first term is 3 and the common difference is 4. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=LynD4v0Upq0",
+            "2. https://www.shaalaa.com/question-bank-solutions/the-11th-term-21st-term-ap-are-16-29-respectively-then-find-arithmetic-progression_1130",
+            "3. https://www.math-only-math.com/arithmetic-progression.html",
+            "4. https://www.intmath.com/sequences-series/3-sequences.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for Two coins are tossed simultaneously. Complete the following activity of writing the sample space (S) and expected outcomes of the events: a. Event A : to get at least one head. b. Event B : to get no head. question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=G5sAIcqx7bQ",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://en.wikipedia.org/wiki/Probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write an A.P. whose first term is a = 10 and common difference d = 5. question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/algebra/sequences-sums-arithmetic.html",
+            "https://www.youtube.com/watch?v=jKs25V4e6oA"
+        ]
+    },
+    {
+        "prompt": "Give reference for The frequency distribution of the age of persons (in years) attending trekking camp is given below: Age (in years) Number of persons 15 19 16 20 24 60 25 29 50 30 34 30 35 39 5 Find the mid-point of the class 20 24. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.toppr.com/ask/question/the-frequency-distribution-of-the-age-of-persons-in-years/",
+            "2. https://www.youtube.com/watch?v=9sutbs3rkjM",
+            "3. Refer Statistics Chapter from textbook and go through the practice sets",
+            "4. https://www.cuemath.com/statistics/class-intervals/",
+            "5. https://www.khanacademy.org/math/statistics-probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the ratio of second quantity to first quantity in the reduced form: 5 dozen pens, 120 pens. question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=bBo1sBilH_I",
+            "https://www.math-only-math.com/ratio-and-proportion.html",
+            "https://www.mathsisfun.com/numbers/ratio.html",
+            "https://en.wikipedia.org/wiki/Ratio"
+        ]
+    },
+    {
+        "prompt": "Give reference for The marks scored by students in Mathematics in a certain examinations are given below: Marks Scored 0 20, 20 40, 40 60, 60 80, 80 100. Number of students 3, 8, 15, 17, 7. Draw histogram for the above data. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=zWnMHcajiMI",
+            "2. https://www.shaalaa.com/question-bank-solutions/represent-the-following-data-by-histogram-price-of-sugar-per-kg-in-number-of-weeks-18-20-4-20-22-8-22-24-22-24-26-12-26-28-6-28-30-8-graphical-representation-of-data-as-histograms_203571",
+            "3. Khan Academy - Statistics and Probability: https://www.khanacademy.org/math/statistics-probability"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equation in two variable chapter for 4 marks",
+        "expected_output": [
+            "A tank can be filled up by two taps in 6 hours. The smaller tap alone takes 5 hours more than the bigger tap alone. Find the time required by each tap to fill the tank separately.",
+            "Solve the following simultaneous equations: 7/(2x+1) + 13/(y+2) = 27, 13/(2x+1) + 7/(y+2) = 33"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equation in two variable chapter for 5 marks",
+        "expected_output": [
+            "On the first day of the sale of tickets of a drama, in all 35 tickets were sold. If the rates of the tickets were ` 20 and ` 40 per ticket and the total collection was ` 900. Find the number of tickets sold at each rate.",
+            " Solve the following simultaneous equations: 10/x + y + 2/x - y = 4; 5/x + y - 5/3(x - y) = -2/3"
+        ]
+    },
+    {
+        "prompt": "Give reference for If the cost of bananas is increased by ` 10 per dozen, one can get 3 dozen less for ` 600. Find the original cost of one dozen of bananas. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iEMBU6nXSSs",
+            "2. https://www.shaalaa.com/question-bank-solutions/if-cost-bananas-increased-rs-10-dozen-one-can-get-3-dozen-less-rs600-find-the-original-cost-one-dozen-bananas-simple-situational-problems_11544",
+            "3. https://www.mathsisfun.com/equations.html",
+            "4. https://www.intmath.com/algebra/linear-equations-matrices.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for The sales of salesmen in a week are given in the pie diagram. Study the diagram and answer the following questions. If the total sale due to salesman A is ` 18,000 then: a. Find the total sale. b. Find the sale of each salesman. c. Find the salesman with the highest sale. d. Find the difference between the highest sale and the lowest sale. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=BIgKOwB18BI",
+            "2. https://www.shaalaa.com/question-bank-solutions/the-sales-salesmen-week-are-given-pie-diagram-study-diagram-answer-following-questions-if-total-sale-due-salesmen-rs-18-000-then-concept-pie-graph-or-circle-graph_1206",
+            "3. https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "4. https://byjus.com/maths/pie-chart/"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on quadratic equation chapter for 5 marks",
+        "expected_output": [
+            "A three digit number is equal to 17 times the sum of its digits. If 198 is added to the number, the digits are interchanged. The addition of first and third digit is 1 less than middle digit. Find the number.",
+            " Solve: 30 (x^2 + 1/x^2) - 77 (x - 1/x) - 12 = 0",
+            "The divisor and quotient of the number 6123 are same and the remainder is half the divisor. Find the divisor."
+        ]
+    },
+    {
+        "prompt": "Give reference for Two dice are thrown. Find the probability of getting: (a) The sum of the numbers on their upper faces is at least 9. (b) The sum of the numbers on their upper faces is 15. (c) The number of the upper face of the second die is greater than the number on the upper face of the first die. question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=G5sAIcqx7bQ",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://en.wikipedia.org/wiki/Probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations by using Cramer s rule: 3x y = 7; x + 4y = 11. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/solve-the-following-simultaneous-equations-using-cramer-s-rule-4m-6n-54-3m-2n-28-determinants-cramer-s-rule_49738",
+            "2. https://www.youtube.com/watch?v=LprQ_Id-8hE",
+            "3. https://www.mathsisfun.com/algebra/systems-linear-equations-matrices.html",
+            "4. https://www.intmath.com/matrices-determinants/linear-equations-matrices.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of x + y, if 12x + 13y = 29 and 13x + 12y = 21 question from linear equation in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=ERoHwytzmo8",
+            "2. https://brainly.in/question/6686970",
+            "3. Khan Academy - Systems of Equations: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations",
+            "4. Mathplanet - Systems of Linear Equations: https://www.mathplanet.com/education/algebra-1/coordinate-system-and-graphing/solving-systems-of-linear-equations-by-graphing"
+        ]
+    },
+    {
+        "prompt": "Give reference for On the first day of the sale of tickets of a drama, in all 35 tickets were sold. If the rates of the tickets were ` 20 and ` 40 per ticket and the total collection was ` 900. Find the number of tickets sold at each rate. question from linear equation in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=bbE5xQs_48k",
+            "2. https://byjus.com/question-answer/some-tickets-of-200-and-some-of-100-of-a-drama-in-a-theatre-were/",
+            "3. Khan Academy - Systems of Equations: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for To draw the graph of 4x + 5y = 19, find y when x = 1: question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=vNm8tsBcWU0",
+            "https://www.mathsisfun.com/algebra/linear-equations.html",
+            "https://www.khanacademy.org/math/algebra/two-variable-linear-equations",
+            "https://www.purplemath.com/modules/systlin1.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for Courier service agent charged total 590 to courier a parcel from Nashik to Nagpur. In the tax invoice taxable value is 500 on which CGST is 45 and SGST is 45. Find the rate of GST charged for this service. question from financial planning chapter",
+        "expected_output": [
+            "https://cleartax.in/s/gst-rate-courier-services",
+            "https://www.youtube.com/watch?v=Ftr2MBcv7LU",
+            "https://www.investopedia.com/terms/g/goodsandservicestax.asp",
+            "https://www.financialexpress.com/economy/explained-why-gst-has-failed-to-deliver-on-promise-of-simplifying-indias-tax-system/1597824/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the class mark of the classes 20 30 and 30 40. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=SQq0N63E3go",
+            "2. https://www.cuemath.com/data/class-mark/",
+            "3. Khan Academy - Statistics and Probability: https://www.khanacademy.org/math/statistics-probability",
+            "1. https://www.youtube.com/watch?v=SQq0N63E3go",
+            "2. https://www.cuemath.com/data/class-mark/",
+            "3. Khan Academy - Mean, Median, Mode, and Range: https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the 19th term of the following A.P.: 7, 13, 19, 25, . question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=F4ndrcohh0o",
+            "https://byjus.com/maths/arithmetic-progression/",
+            "https://www.math-only-math.com/arithmetic-progression.html",
+            "https://www.khanacademy.org/math/algebra/sequences/arithmetic-sequences/v/term-from-term-formula"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation using factorization method: x^2 + 11x + 24 = 0. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=u2MKtbnSHuA",
+            "2. https://www.cuemath.com/algebra/factoring-methods/",
+            "3. Khan Academy - Solving Quadratic Equations by Factoring: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:solving-quadratics-by-factoring/v/solving-quadratic-equations-by-factoring"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Find first two terms of the sequence whose nth term is tn = 2n 5. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=9sqbfKzyZzI",
+            "2. https://www.toppr.com/ask/question/write-the-first-two-terms-of-the-sequence-whose-nth/",
+            "3. https://www.cuemath.com/numbers/arithmetic-progression/",
+            "4. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/v/arithmetic-sequences"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the 19th term of the A.P. 7, 13, 19, 25, . question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=bBo1sBilH_I",
+            "https://www.math-only-math.com/arithmetic-progression.html",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://en.wikipedia.org/wiki/Arithmetic_progression"
+        ]
+    },
+    {
+        "prompt": "Give reference for Represent the following data by Histogram: Price of Sugar per kg (in rupees) : 18 20 |20 22 |22 24 |24 26 |26 28 |28 30 Number of Weeks: 4 |8 |22 |12 |8 |6 question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=zWnMHcajiMI",
+            "2. https://www.shaalaa.com/question-bank-solutions/represent-the-following-data-by-histogram-price-of-sugar-per-kg-in-number-of-weeks-18-20-4-20-22-8-22-24-22-24-26-12-26-28-6-28-30-8-graphical-representation-of-data-as-histograms_203571",
+            "3. https://www.khanacademy.org/math/statistics-probability",
+            "4. https://byjus.com/maths/histogram/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the values of a and b from the quadratic equation 2x^2 5x + 7 = 0. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.mathsisfun.com/quadratic-equation-solver.html",
+            "https://www.khanacademy.org/math/algebra/quadratics/solving-quadratics-using-the-quadratic-formula",
+            "https://en.wikipedia.org/wiki/Quadratic_equation"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the following equation in the form ax^2 + bx + c = 0, then write the values of a, b, c: 2y = 10 y^2. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/quadratic-equations.html",
+            "https://www.youtube.com/watch?v=lTnhLxCZQQo"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations: 7/(2x+1) + 13/(y+2) = 27, 13/(2x+1) + 7/(y+2) = 33 question from linear equation in two variable chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/solve-the-following-simultaneous-equations-using-cramer-s-rule-4m-6n-54-3m-2n-28-determinants-cramer-s-rule_49738",
+            "2. https://www.youtube.com/watch?v=LprQ_Id-8hE",
+            "3. Khan Academy - Systems of Equations: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for  A coin is tossed , write the sample space S . question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=The%20three%20most%20common%20ways%20to%20find%20a,Create%20a%20Tree-Diagram.%203%20Use%20a%20Venn%20Diagram.",
+            "3. https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "4. https://www.embibe.com/exams/sample-space-in-probability/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Decide whether the following sequence is an A.P. if so, find the 20th term of the progression: -12, -5, 2, 9, 16, 23, 30, [BLANK] question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8nxC2hjHc4s",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://www.khanacademy.org/math/algebra/sequences",
+            "https://en.wikipedia.org/wiki/Arithmetic_progression"
+        ]
+    },
+    {
+        "prompt": "Give reference for A die is thrown, then write the sample space (S) and number of sample points n(S) and also write event A of getting numbers multiple of 3 on the upper face and write n(A). question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=The%20three%20most%20common%20ways%20to%20find%20a,Create%20a%20Tree-Diagram.%203%20Use%20a%20Venn%20Diagram.",
+            "3. https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "4. https://byjus.com/maths/probability/"
+        ]
+    },
+    {
+        "prompt": "Give reference for A survey was conducted for 180 people in a city. 70 ate Pizza, 60 ate burgers and 50 ate chips. Draw a pie diagram for the given information question from statistics chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=6Dgnl8ChnaU",
+            "https://www.mathsisfun.com/data/pie-charts.html",
+            "https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/pie-charts/a/pie-charts-2",
+            "https://www.wikihow.com/Make-a-Pie-Chart"
+        ]
+    },
+    {
+        "prompt": "Give reference for If n(A) = 2, P(A) = 1 / 5 , then n(S) = ? question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/probability/probability.html",
+            "https://www.math-only-math.com/probability-problems.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library"
+        ]
+    },
+    {
+        "prompt": "Give reference for The measurements (in mm) of the diameters of the head of the screws are given below: Diameter (in mm): 33 35 | 36 38 | 39 41 | 42 44 | 45 47. No. of screws: 9 | 21 | 30 | 20 | 18. Calculate mean diameter of head of a screw by Assumed Mean Method . question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=kLMIicmkXRs",
+            "2. https://byjus.com/maths/mean-of-grouped-data/",
+            "3. Khan Academy - Statistics and Probability: https://www.khanacademy.org/math/statistics-probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation using formula method: 6x^2 7x 1 = 0. question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=IlNAJl36-10",
+            "2. https://www.embibe.com/exams/methods-of-solving-quadratic-equations/",
+            "3. Refer to the Quadratic Equations chapter and go through the practice sets",
+            "4. Khan Academy - Quadratic Functions and Equations: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations using Cramer s rule: 3x 4y = 10, 4x + 3y = 5 question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/algebra/systems-linear-equations.html",
+            "https://www.youtube.com/watch?v=IP7nW_hKBWs",
+            "https://byjus.com/maths/cramers-rule/",
+            "https://www.splashlearn.com/math-vocabulary/algebra/linear-equations-and-inequalities/cramers-rule"
+        ]
+    },
+    {
+        "prompt": "Give reference for If 7x + 5y = 11 and 5x + 7y = 13, find x + y. question from linear equation in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=ERoHwytzmo8",
+            "2. https://brainly.in/question/6686970",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-graphs",
+            "4. https://www.cuemath.com/algebra/linear-equations-in-two-variables/"
+        ]
+    },
+    {
+        "prompt": "Give reference for For simultaneous equations in variables x and y, if Dx = 49, Dy = 63, D = 7, then what is the value of x? question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/algebra/systems-linear-equations-determinants.html",
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-equations/x2f8bb11595b61c86:solving-systems-with-determinants/v/solving-linear-systems-with-determinants",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations#Determinant_method"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equations in two variable chapter for 1 marks",
+        "expected_output": [
+            "For simultaneous equations in variables x and y, if Dx = 49, Dy = 63, D = 7, then what is the value of x?",
+            "Find the value of the following determinant: |4 3| |2 7|",
+            "Write the ratio of second quantity to first quantity in the reduced form: 5 dozen pens, 120 pens.",
+            "If 3x + 5y = 9 and 5x + 3y = 7, then find the value of x + y.",
+            "If 15x + 17y = 21 and 17x + 15y = 11, then find the value of x + y."
+        ]
+    },
+    {
+        "prompt": "Give reference for Below is given the distribution of money (in `) collected by students for Flood Relief Fund: Money (in Ruppees) : 0 10| 10 20 |20 30 |30 40 |40 50 No. of Students : 5 |7 |5 |2 |6 Find mean of money (in `) collected by a student by using Assumed Mean Method  question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data",
+            "4. https://www.toppr.com/guides/maths/statistics/mean-median-mode/"
+        ]
+    },
+    {
+        "prompt": "Give reference for For the quadratic equation x^2 + 10x 7 = 0, the values of a, b, c are: question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/quadratic-equation.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://en.wikipedia.org/wiki/Quadratic_equation"
+        ]
+    },
+    {
+        "prompt": "Give reference for Three horses A, B and C are in a race, A is twice as likely to win as B and B is twice as likely to win as C. What are their probabilities of winning? question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=V6igDpX_0Tw",
+            "2. https://www.shaalaa.com/question-bank-solutions/in-a-certain-race-there-are-three-boys-a-b-c-the-winning-probability-of-a-is-twice-than-b-and-the-winning-probability-of-b-is-twice-than-c-if-p-a-p-b-p-c-1-then-find-the-probabilities-basic-ideas-of-probability_96852",
+            "3. https://www.math-only-math.com/probability.html",
+            "4. https://www.mathsisfun.com/data/probability.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Verify whether 1 is the root of the quadratic equation: x^2 + 3x 4 = 0. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=xhXVLixcOGg",
+            "2. https://www.toppr.com/ask/question/verify-whether-1-is-the-root-of-the-quadratic-equationx2/",
+            "3. Khan Academy - Quadratic Formula: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for If the point A(2, 3) lies on the graph of the equation 5x + ay = 19, then find a. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k-_Z67HFK_A",
+            "2. https://byjus.com/maths/graphing-of-linear-equations/",
+            "3. Khan Academy - Linear Equations: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:two-var-linear-equations/x2f8bb11595b61c86:solving-systems-of-linear-equations/v/overview-of-solving-systems-of-linear-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for The following table gives production yield per hectare of wheat of 100 farms of a village: Production Yield per Hectare (in kg) Number of Farms Below 20 8 20 25 12 25 30 20 30 35 25 35 40 22 40 45 8 45 50 5 Find mode of the data. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. https://www.mathsisfun.com/mode.html",
+            "4. https://www.math-only-math.com/mode-of-grouped-data.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for (x + 5)(x 2) = 0, find the roots of this quadratic equation. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=EGw30CSK1DE",
+            "2. https://www.geeksforgeeks.org/roots-of-quadratic-equations/",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics/x2f8bb11595b61c86:solving-quadratics-by-factoring/v/quadratic-equations-intro",
+            "4. https://www.cuemath.com/algebra/quadratic-equations/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Below is the given frequency distribution of words in an essay. Number of Words: 600 800, 800 1000, 1000 1200, 1200 1400, 1400 1600. Number of Candidates: 14, 22, 30, 18, 16. Find the mean number of words written. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=zjHfAhcU6kE",
+            "2. https://byjus.com/maths/mean-of-grouped-data/",
+            "3. Khan Academy - Statistics and Probability: https://www.khanacademy.org/math/statistics-probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the next two terms in the sequence: 1, 3, 7, 15, 31, . question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=Iu9ifVj9EIg",
+            "2. https://www.toppr.com/ask/question/1-3-7-15-31-find-next-term-of-the-series/",
+            "3. Refer The chapter Arithmetic progression",
+            "4. https://www.cuemath.com/numbers/arithmetic-progression/",
+            "5. https://www.mathsisfun.com/algebra/sequences-series.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for The following data give the number of students using different modes of transport: Modes of Transport : Bicycle |Bus | Walk |Train |Car Number of Students : 140 | 100 | 70 | 40 | 10 From this table, find the central angle ( ) for the Mode of Transport Bus . question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "4. https://www.toppr.com/guides/maths/data-handling/construction-of-pie-chart/"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Solve the following simultaneous equations: 1/x + 1/y = 8; 4/x - 2/y = 2. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=p15_GD_Eks0",
+            "2. https://byjus.com/maths/simultaneous-equations-questions/",
+            "3. Refer The chapter Linear equations in two variables from textbook",
+            "4. https://www.cuemath.com/algebra/simultaneous-linear-equations/",
+            "5. https://www.toppr.com/ask/question/solve-the-following-simultaneous-equations-1-x-1-y-8-4-x-2-y-2/"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equations in two variables chapter for 2 marks",
+        "expected_output": [
+            "Find the value of x y if 3x + 2y = 15, 2x + 3y = 10.",
+            "If the value of determinants |x -5| |3 4| is 31, then find the value of x."
+        ]
+    },
+    {
+        "prompt": "Give reference for A die is thrown. If A is an event of getting an odd number then write the sample space and event A in set notation. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=The%20three%20most%20common%20ways%20to%20find%20a,Create%20a%20Tree-Diagram.%203%20Use%20a%20Venn%20Diagram.",
+            "3. Khan Academy - Sample Spaces: https://www.khanacademy.org/math/precalculus/prob-comb/probability-precalc/v/sample-spaces",
+            "4. Purplemath - Probability: https://www.purplemath.com/modules/probnot.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for Smt. Malhotra purchased solar panels for the taxable value of 85,000. She sold them for 90,000. The rate of GST is 5%. Find the ITC of Smt. Malhotra. What is the amount of GST payable by her? question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=4ONrHOzG5wo",
+            "https://www.cleartax.in/s/input-tax-credit-under-gst",
+            "https://www.bankbazaar.com/tax/gst-rates.html",
+            "https://en.wikipedia.org/wiki/Goods_and_Services_Tax_(India)"
+        ]
+    },
+    {
+        "prompt": "Give reference for If S5 = 15 and S6 = 21, find t6. question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=G5sAIcqx7bQ",
+            "https://www.youtube.com/watch?v=1pzgnpU_vxI",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://www.purplemath.com/modules/series.htm"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on financial planning chapter for 3 marks",
+        "expected_output": [
+            "On certain article if rate of CGST is 9%, then what is the rate of SGST?",
+            "50 shares of face value 10 were purchased for market value of 25. Company declared 30% dividend on the shares, then find: a. Sum invested b. Dividend received c. Rate of return.",
+            "Shri Shantilal has purchased 150 shares of FV 100, for MV of 120, Company has paid dividend at 7%, then to find the rate of return on his investment, complete the following activity",
+            "Amit saves certain amount every month in a specific way. In the first month he saves 200, in the second month 250, in the third month 300 and so on. How much will be his total savings in 17 months?",
+            "Smt. Malhotra purchased solar panels for the taxable value of 85,000. She sold them for 90,000. The rate of GST is 5%. Find the ITC of Smt. Malhotra. What is the amount of GST payable by her?",
+            "A dealer sells a toy for 24 and gains as much percent as the cost price of the toy. Find the cost price of the toy."
+        ]
+    },
+    {
+        "prompt": "Give reference for Two dice are thrown. Find the probability of the event that the product of numbers on their upper faces is 12 question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=4G87BBiL1go",
+            "2. https://www.shaalaa.com/question-bank-solutions/two-coins-are-tossed-simultaneously-write-the-sample-space-s-and-expected-sample-points-in-the-given-events-by-completing-the-activity-i-event-a-to-get-at-least-sample-space_205527",
+            "3. https://www.mathsisfun.com/data/probability.html",
+            "4. https://www.math-only-math.com/probability-of-rolling-two-dice.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for A die is thrown, then find the probability of the following events: A is an Event: getting a number divisible by 3. B is an Event: getting a number less than 5. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=4mRBrHtbHWo",
+            "2. https://www.teachoo.com/2990/664/Ex-16.3--3---A-die-is-thrown--find-probability-(i)-A-prime-number/category/Ex-16.3/#:~:text=Ex%2014.2%2C%203%20A%20die%20is%20thrown%2C%20find,%28n%20%28A%29%29%2F%20%28n%20%28s%29%29%20%3D%203%2F6%20%3D%20%F0%9D%9F%8F%2F%F0%9D%9F%90",
+            "3. Khan Academy - Probability: https://www.khanacademy.org/math/statistics-probability/probability-library"
+        ]
+    },
+    {
+        "prompt": "Give reference for The co-ordinates of the point of intersection of lines ax + by = 9 and bx + ay = 5 is (3, 1). Find the values of a and b. question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/algebra/linear-equations.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-equations",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Area under different crops in a certain village is given below. Represent it by a pie diagram: Crop | Area in Hectares Jowar | 40 Wheat | 60 Sugarcane | 50 Vegetables | 30 question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=eePm1IZpoS4",
+            "2. https://www.shaalaa.com/question-bank-solutions/area-under-different-crops-certain-village-given-below-represent-it-pie-diagram-concept-pie-graph-or-circle-graph_1157",
+            "3. Khan Academy - Pie Charts: https://www.khanacademy.org/math/statistics-probability/data-distributions-a1/visualizing-data-distributions/v/pie-charts"
+        ]
+    },
+    {
+        "prompt": "Give reference for For a sequence, if Sn = n/(n + 1)^2 then find the value of S10. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=zR5XjrBZnHc",
+            "2. https://www.shaalaa.com/question-bank-solutions/for-sequence-if-n-sn-n-n-1-then-find-value-s10-introduction-to-sequence_1147",
+            "3. Math is Fun - Arithmetic Sequences: https://www.mathsisfun.com/algebra/sequences-finding-term.html",
+            "4. Purplemath - Sequences: https://www.purplemath.com/modules/series.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for 50 shares of face value 10 were purchased for market value of 25. Company declared 30% dividend on the shares, then find: a. Sum invested b. Dividend received c. Rate of return. question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=ybR2eDU3Ulg",
+            "https://www.investopedia.com/terms/f/financial-planning.asp",
+            "https://www.moneycontrol.com/glossary/financial-planning_1251.html",
+            "https://www.personalfinanceblog.org/the-importance-of-financial-planning/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Two coins are tossed simultaneously. Write the sample space S and the number of sample points n(S). Write the following events using set notation and mention the total number of elements in each of them: a. A is the event of getting at most one tail. b. D is the event of getting no head question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=The%20three%20most%20common%20ways%20to%20find%20a,Create%20a%20Tree-Diagram.%203%20Use%20a%20Venn%20Diagram.",
+            "3. https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "4. https://byjus.com/maths/probability/"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Solve the quadratic equation by using the formula method: 4x^2 + 7x + 2 = 0. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=IlNAJl36-10",
+            "2. https://www.embibe.com/exams/methods-of-solving-quadratic-equations/",
+            "3. Refer The quadratic equations chapter and go through the practice sets",
+            "4. https://www.cuemath.com/algebra/quadratic-equations/",
+            "5. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics/x2f8bb11595b61c86:quadratic-formula/v/solving-quadratics-with-the-quadratic-formula"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the class mark of the class 35 - 39. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=SQq0N63E3go",
+            "2. https://www.cuemath.com/data/class-mark/",
+            "3. https://www.scribbr.com/statistics/class-midpoint/",
+            "4. https://www.math-only-math.com/class-mark-of-a-class-interval.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation: x^2 + 8x + 15 = 0. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/quadratic-equation-solver.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://en.wikipedia.org/wiki/Quadratic_equation"
+        ]
+    },
+    {
+        "prompt": "Give reference for Draw a frequency polygon for the following frequency distribution: Rainfall (in mm) 20 25, 25 30, 30 35, 35 40, 40 45, 45 50. No. of Years 2, 5, 8, 12, 10, 7 question from statistics chapter",
+        "expected_output": [
+            "1. Khan Academy - Statistics and Probability: https://www.khanacademy.org/math/statistics-probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for If the sum of first p terms of an A.P. is equal to the sum of first q terms, then show that the sum of its first (p + q) terms is zero where p not equal to q. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=ZJpLHjcy_To",
+            "2. https://www.shaalaa.com/question-bank-solutions/if-the-sum-of-first-p-terms-of-an-ap-is-equal-to-the-sum-of-first-q-terms-then-show-that-the-sum-of-its-first-p-q-terms-is-zero-p-q-sum-of-first-n-terms-of-an-arithmetic-progressions_50160",
+            "3. https://www.mathsisfun.com/algebra/sequences-sums-arithmetic.html",
+            "4. https://www.intmath.com/sequences-series/3-sequences.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for If the point (a, 3) lies on the graph of the equation 5x + 2y = 4, then find a. question from linear equation in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k-_Z67HFK_A",
+            "2. https://www.onlinemathlearning.com/systems-of-equations.html",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-graphs",
+            "4. https://www.toppr.com/guides/maths/linear-equations-in-two-variables/"
+        ]
+    },
+    {
+        "prompt": "Give reference for If a die is rolled, what is the probability that number appearing on upper face is less than 2? question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=G5sAIcqx7bQ",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://en.wikipedia.org/wiki/Probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation by factorization method: 4x^2 9 = 0. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=u2MKtbnSHuA",
+            "2. https://www.cuemath.com/algebra/factoring-methods/",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics/x2f8bb11595b61c86:solving-quadratics-by-factoring/v/quadratic-equations-intro",
+            "4. https://byjus.com/maths/quadratic-equation/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of discriminant ( ) for the quadratic equation: x^2 + 7x + 6 = 0 . question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=Y4BnJJR04nM",
+            "2. https://www.shaalaa.com/question-bank-solutions/find-value-discriminant-quadratic-equation-x-2-7x-6-0-quadratic-equations_11467",
+            "3. https://www.mathsisfun.com/quadratic-equation/discriminant.html",
+            "4. https://www.intmath.com/quadratic-equations/6-discriminant.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for If 17x + 15y = 11 and 15x + 17y = 21, then find the value of x y. question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=nVUS0HEnWmI",
+            "https://www.mathsisfun.com/algebra/systems-linear-equations.html",
+            "https://byjus.com/maths/systems-of-linear-equations/",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-linear-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for  The perimeter of an isosceles triangle is 44 cm. The length of its congruent sides is 4 cm more than its base. Find the lengths of all the sides. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/the-perimeter-of-an-isosceles-triangle-is-24-cm-the-length-of-its-congruent-sides-is-13-cm-less-than-twice-the-length-of-its-base-find-the-lengths-of-all-sides-of-the-triangle-simultaneous-linear-equations_335740",
+            "2. https://www.youtube.com/watch?v=G454vj0UB1I",
+            "3. https://www.toppr.com/ask/question/the-perimeter-of-an-isosceles-triangle-is-44-cm-if-each-of-the-equal-sides/",
+            "4. https://www.cuemath.com/algebra/isosceles-triangle-formula/",
+            "5. https://www.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-trig-ratios/v/isosceles-triangle"
+        ]
+    },
+    {
+        "prompt": "Give reference for For an A.P., find S10 if a = 6 and d = 3. question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=bBo1sBilH_I",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://www.purplemath.com/modules/series.htm",
+            "https://www.khanacademy.org/math/precalculus/seq-induction/sum-arithmetic-series/a/arithmetic-series-formula"
+        ]
+    },
+    {
+        "prompt": "Give reference for Draw the graphs representing the equations 4x + 3y = 24 and 3y = 4x + 24 on the same graph paper. Write the co-ordinates of the point of intersection of these lines and find the area of the triangle formed by these lines on the X-axis. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k-_Z67HFK_A",
+            "2. https://byjus.com/maths/graphing-of-linear-equations/",
+            "3. Khan Academy - Graphing Lines: https://www.khanacademy.org/math/algebra/two-var-linear-equations",
+            "4. Mathplanet - Graphs of Linear Equations: https://www.mathplanet.com/education/algebra-1/coordinate-system-and-graphing/representing-linear-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for State whether the following sequence is an Arithmetic Progression or not: 3, 6, 12, 24,[BLANK] . question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=Rla4j4DeOO0",
+            "2. https://www.toppr.com/ask/question/state-whether-the-following-sequence-is-an-ap-or-not1/",
+            "3. https://www.mathwarehouse.com/arithmetic-progression/",
+            "4. https://www.vedantu.com/maths/arithmetic-progression"
+        ]
+    },
+    {
+        "prompt": "Give reference for How many three digit natural numbers are divisible by 5? question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/find-how-many-three-digit-natural-numbers-are-divisible-5-introduction-to-sequence_49769",
+            "2. https://www.youtube.com/watch?v=-WeLWc0CrGM",
+            "3. https://www.mathsisfun.com/divisibility-rules.html",
+            "4. https://www.math-only-math.com/divisibility-rule-for-5.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for If one of the roots of the quadratic equation x^2 7x + k = 0 is 4, then find the value of k. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=O85OWBJ2ayo",
+            "https://www.youtube.com/watch?v=3tbhvdO5dlA",
+            "https://www.mathsisfun.com/quadratic-equation.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the first two terms of the sequence for which Sn is given below: Sn = n^2 (n + 1) question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=525Dwouk7a8",
+            "2. https://www.toppr.com/ask/question/find-the-term-t10-of-an-ap4-9-14/",
+            "3. https://www.mathsisfun.com/algebra/sequences-sums-arithmetic.html",
+            "4. https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:sequences-series/x9e81a4f98389efdf:sequence-introduction/a/introduction-to-sequences"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the equation of X-axis. Hence, find the point of intersection of the graph of the equation x + y = 5 with the X-axis. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k-_Z67HFK_A",
+            "2. https://byjus.com/maths/graphing-of-linear-equations/",
+            "3. https://www.mathsisfun.com/algebra/linear-equations-graphs.html",
+            "4. https://www.splashlearn.com/math-vocabulary/algebra/graph-of-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Given below is the frequency distribution of driving speeds (in km/hour) of the vehicles of 400 college students: Speed (in km/hr) : 20 30, 30 40 , 40 50 , 50 60 ,60 70 No. of Students : 6 , 80, 156, 98, 60 Draw Histogram and hence the frequency polygon for the above data. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=zWnMHcajiMI",
+            "2. https://www.shaalaa.com/question-bank-solutions/represent-the-following-data-by-histogram-price-of-sugar-per-kg-in-number-of-weeks-18-20-4-20-22-8-22-24-22-24-26-12-26-28-6-28-30-8-graphical-representation-of-data-as-histograms_203571",
+            "3. Khan Academy - Histograms: https://www.khanacademy.org/math/statistics-probability/data-distributions-a1/histograms/v/histograms-intro"
+        ]
+    },
+    {
+        "prompt": "Give reference for Smita has invested 12,000 to purchase shares of FV 10 at a premium of 2. Find the number of shares she purchased. question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.investopedia.com/terms/s/stock.asp",
+            "https://www.moneycontrol.com/news/business/stocks/",
+            "https://en.wikipedia.org/wiki/Stock"
+        ]
+    },
+    {
+        "prompt": "Give reference for A farmer borrows ` 1,000 and agrees to repay with a total interest of ` 140 in 12 instalments, each instalment being less than the preceding instalment by ` 10. What should be his first instalment? question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=woh4gC-egJA",
+            "2. https://www.shaalaa.com/question-bank-solutions/a-man-borrows-rs-8000-and-agrees-to-repay-with-a-total-interest-of-rs-1360-in-12-monthly-installments-each-installment-being-less-than-the-preceding-one-by-rs-40-sum-of-the-first-n-terms-of-an-geometric-progression_50093",
+            "3. https://www.khanacademy.org/math/algebra/sequences/arithmetic-sequences/v/intro-to-arithmetic-sequences",
+            "4. https://www.embibe.com/exams/arithmetic-progression-formula/"
+        ]
+    },
+    {
+        "prompt": "Give reference for If two coins are tossed, then find the probability of the event that at the most one tail turns up. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=The%20three%20most%20common%20ways%20to%20find%20a,Create%20a%20Tree-Diagram.%203%20Use%20a%20Venn%20Diagram.",
+            "3. Khan Academy - Basic Probability: https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/probability-1-overview"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Solve by factorization method: y^2 36 = 0. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=u2MKtbnSHuA",
+            "2. https://www.cuemath.com/algebra/factoring-methods/",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics/x2f8bb11595b61c86:solving-quadratics-by-factoring/v/solving-quadratic-equations-by-factoring",
+            "4. https://www.toppr.com/ask/question/solve-the-equation-y2-36-0/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Shri Shantilal has purchased 150 shares of FV 100, for MV of 120, Company has paid dividend at 7%, then to find the rate of return on his investment, complete the following activity question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=n9roRJtKdxA",
+            "https://www.investopedia.com/terms/d/dividendyield.asp",
+            "https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/dividends-stock/v/dividend-yield-and-capital-gains",
+            "https://en.wikipedia.org/wiki/Dividend_yield"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of the following determinant: |4 3| |2 7| question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/find-the-value-of-the-following-determinant-4327-determinant-order-two_49880",
+            "2. https://www.youtube.com/watch?v=t_iyvy930ak",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:matrices/v/determinants-2",
+            "4. https://www.mathsisfun.com/algebra/matrix-determinant.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for A die is thrown, find the probability of the event of getting an odd number. question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=G5sAIcqx7bQ",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://en.wikipedia.org/wiki/Probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for If a + b = 5 and a^ 3+ b^3 = 35, find the quadratic equation whose roots are a and b. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/algebra/quadratic-equation.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://en.wikipedia.org/wiki/Quadratic_equation"
+        ]
+    },
+    {
+        "prompt": "Give reference for In the format of GSTIN, there are _______ alpha-numerals question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=nVUS0HEnWmI",
+            "https://www.investopedia.com/terms/g/goods-and-services-tax-gst.asp",
+            "https://cleartax.in/s/gstin",
+            "https://www.gst.gov.in/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Draw the graph of the equation x + 2y = 4. Find the area of the triangle formed by the line intersecting to X-axis and Y-axis. question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=ph5WTzYl_Gk",
+            "https://www.math-only-math.com/graphing-linear-equations.html",
+            "https://www.purplemath.com/modules/strtlneq.htm",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-and-inequalities/graphing-slope/a/graphing-linear-equations-1"
+        ]
+    },
+    {
+        "prompt": "Give reference for First term and common difference of an A.P. are 12 and 4 respectively. If tn = 96, find n. question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=bBo1sBilH_I",
+            "https://www.math-only-math.com/arithmetic-progression.html",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://en.wikipedia.org/wiki/Arithmetic_progression"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find n if the nth term of the following A.P. is 66: 3, 6, 9, 12, [BLANK] question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=G5sAIcqx7bQ",
+            "https://www.youtube.com/watch?v=bBo1sBilH_I",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://www.purplemath.com/modules/series.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for If x + y = 5 and x = 3, then find the value of y. question from linear equation in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=ERoHwytzmo8",
+            "2. https://brainly.in/question/6686970",
+            "3. Khan Academy - Systems of Equations: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations",
+            "4. Mathplanet - Systems of Linear Equations: https://www.mathplanet.com/education/algebra-1/coordinate-system-and-graphing/solving-systems-of-linear-equations-by-graphing"
+        ]
+    },
+    {
+        "prompt": "Give reference for If 15x + 17y = 21 and 17x + 15y = 11, then find the value of x + y. question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/algebra/linear-equations.html",
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-equations",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Obtain a quadratic equation whose roots are 3 and 7. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.mathsisfun.com/quadratic-equation-solver.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://en.wikipedia.org/wiki/Quadratic_equation"
+        ]
+    },
+    {
+        "prompt": "Give reference for If [4 5] [m 3] = 22, then find the value of m. question from linear equations in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "https://www.math-only-math.com/system-of-equations-in-two-variables.html",
+            "https://www.mathsisfun.com/algebra/systems-linear-equations.html",
+            "https://en.wikipedia.org/wiki/System_of_linear_equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for A tank can be filled up by two taps in 6 hours. The smaller tap alone takes 5 hours more than the bigger tap alone. Find the time required by each tap to fill the tank separately. question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/definitions/proportional.html",
+            "https://www.youtube.com/watch?v=D0TTZZtCZ7s",
+            "https://www.tutorialspoint.com/learn_java_programming_for_beginners/time_and_work.htm",
+            "https://www.math-only-math.com/time-and-work.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for A dealer sells a toy for 24 and gains as much percent as the cost price of the toy. Find the cost price of the toy. question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=v-1QjIJUcSc",
+            "https://www.investopedia.com/terms/p/profitmargin.asp",
+            "https://www.wallstreetmojo.com/profit-margin-formula/",
+            "https://www.accountingtools.com/articles/what-is-the-profit-margin-percentage.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the quadratic equation by factorisation method: x^2 + 15x + 54 = 0 question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=ViVyyWmXJqs",
+            "https://www.mathsisfun.com/algebra/quadratic-equations-solving.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://en.wikipedia.org/wiki/Quadratic_equation"
+        ]
+    },
+    {
+        "prompt": "Give reference for There is an auditorium with 35 rows of seats. There are 20 seats in the first row, 22 seats in the second row, 24 seats in the third row and so on. Find the number of seats in the twenty second row. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=y3pxSMudeow",
+            "2. https://www.shaalaa.com/question-bank-solutions/there-auditorium-35-rows-seats-there-are-20-seats-first-row-22-seats-second-row-24-seats-third-row-so-find-number-seats-twenty-fifth-row-arithmetic-progression_1160",
+            "3. Khan Academy - Arithmetic Sequences: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences"
+        ]
+    },
+    {
+        "prompt": "Give reference for For the given A.P. a = 3.5, d = 0, then tn = question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=wtAbXpYQO5s",
+            "https://www.mathsisfun.com/algebra/sequences-sums-arithmetic.html",
+            "https://www.math-only-math.com/arithmetic-progression.html",
+            "https://byjus.com/maths/arithmetic-progression-ap/"
+        ]
+    },
+    {
+        "prompt": "Give reference for A two digit number is to be formed using the digits 0, 1, 2, 3. Repetition of the digits is allowed. Find the probability that a number so formed is a prime number. question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=G5sAIcqx7bQ",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://en.wikipedia.org/wiki/Prime_number"
+        ]
+    },
+    {
+        "prompt": "Give reference for Two digit numbers are formed using digits 2, 3 and 5 without repeating a digit. Write the sample space. question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=Uz2WCKqSLb4",
+            "https://www.mathsisfun.com/combinatorics/combinations-permutations.html",
+            "https://www.khanacademy.org/math/precalculus/prob-comb",
+            "https://www.probabilitycourse.com/chapter1/1_2_2_sample_space.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation by formula method: 3m2 m 10 = 0 question from quadratic equation chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=VCfcopOIiDc",
+            "https://www.mathsisfun.com/quadratic-equations.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://www.purplemath.com/modules/quadform.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for There are three boys and two girls. A committee of two is to be formed. Find the probability of the following events: Event A: The committee contains at least one boy. Event B: The committee contains one boy and one girl. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=q5T6p-_7Kic",
+            "2. https://www.vedantu.com/question-answer/there-are-three-boys-and-two-girls-a-committee-class-12-mathematics.-cbse-5ee705f147f3231af244762a",
+            "3. Khan Academy - Probability: https://www.khanacademy.org/math/statistics-probability/probability-library"
+        ]
+    },
+    {
+        "prompt": "Give reference for For a certain frequency distribution, the values of Assumed mean (A) = 1300, fidi = 900 and fi = 100. Find the value of mean (x). question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=kLMIicmkXRs",
+            "2. https://byjus.com/maths/mean-of-grouped-data/",
+            "3. https://www.mathsisfun.com/data/mean.html",
+            "4. https://www.intmath.com/counting-probability/14-mean-deviation.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for For an A.P. t3 = 8 and t4 = 12, find the common difference d. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=vJIDzFtXWlw",
+            "2. https://www.toppr.com/ask/question/for-an-ap-t3-8-and-t4-12/",
+            "3. https://www.khanacademy.org/math/algebra/sequences/arithmetic-sequences/v/intro-to-arithmetic-sequences",
+            "4. https://www.embibe.com/exams/arithmetic-progression-formula/"
+        ]
+    },
+    {
+        "prompt": "Give reference for For computation of income tax which is the assessment year of financial year 01 04 2016 to 31 03 2017? question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.incometaxindia.gov.in/Pages/tax-hub/faqs.aspx",
+            "https://cleartax.in/s/assessment-year",
+            "https://www.policybazaar.com/income-tax/assessment-year/"
+        ]
+    },
+    {
+        "prompt": "Give reference for For a certain frequency distribution, the value of mean is 15 and mode is 9. Find the value of median. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data",
+            "4. https://www.embibe.com/exams/mean-median-mode-formula/"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation by using formula method: 3q^2 2q = 8. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=3i1r6X4dfLs",
+            "https://www.mathsisfun.com/quadratic-equation.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://en.wikipedia.org/wiki/Quadratic_equation"
+        ]
+    },
+    {
+        "prompt": "Give reference for If fixi = 75 and fi = 15, then find the mean x. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. https://www.khanacademy.org/math/statistics-probability/describing-and-collecting-data",
+            "4. https://www.toppr.com/guides/maths/statistics/mean-median-mode/"
+        ]
+    },
+    {
+        "prompt": "Give reference for State whether the given equation is quadratic or not. Give reason. 5/4 m^2 7 = 0. question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.mathsisfun.com/algebra/quadratic-equation.html",
+            "2. https://www.youtube.com/watch?v=FX4C-JpTFgY",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "4. https://www.cuemath.com/algebra/quadratic-equations/"
+        ]
+    },
+    {
+        "prompt": "Give reference for If Dx = 25, D = 5 are the values of the determinants for certain simultaneous equations in x and y, find x. question from linear equations in two variables chapter",
+        "expected_output": [
+            "1. https://www.mathsisfun.com/algebra/systems-linear-equations-determinants.html",
+            "2. https://www.youtube.com/watch?v=8ykdIBf7FaU",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-equations/x2f8bb11595b61c86:solving-systems-with-determinants/v/solving-linear-systems-with-determinants",
+            "4. https://en.wikipedia.org/wiki/System_of_linear_equations#Determinant_method"
+        ]
+    },
+    {
+        "prompt": "Give reference for  The following frequency distribution gives the monthly consumption of electricity of 70 consumers of a locality: Monthly Consumption (Units) No. of Consumers 65 85 04 85 105 05 105 125 13 125 145 22 145 165 14 165 185 08 185 205 04 Find its mean and median. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. https://www.cuemath.com/statistics/mean-median-mode-formula/",
+            "4. https://www.toppr.com/ask/question/the-mean-median-and-mode-of-a-data-set-are-related-by-the-formula/",
+            "5. https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find second and third term of an A.P. whose first term is 2 and common difference is 2. question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://www.khanacademy.org/math/algebra/sequences",
+            "https://en.wikipedia.org/wiki/Arithmetic_progression"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation by factorization method x^2 7x + 12 = 0. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=u2MKtbnSHuA",
+            "2. https://www.cuemath.com/algebra/factoring-methods/",
+            "3. Purplemath - Factoring Quadratics: https://www.purplemath.com/modules/factquad.htm",
+            "4. Mathplanet - Factoring Quadratics: https://www.mathplanet.com/education/algebra-1/quadratic-functions/factoring-quadratic-expressions"
+        ]
+    },
+    {
+        "prompt": "Give reference for A card is drawn from a well shuffled pack of 52 playing cards. Find the probability of the event, the card drawn is a red card. question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=G5sAIcqx7bQ",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "https://en.wikipedia.org/wiki/Probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for Two digit numbers are formed using the digits 0, 1, 2, 3, 4, 5 where digits are not repeated. P is the event that the number so formed is even. Q is the event that the number so formed is greater than 50. R is the event that the number so formed is divisible by 3. Then write the sample space S and events P, Q, R using set notation. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=qnhcFuwakDc",
+            "2. https://www.shaalaa.com/question-bank-solutions/two-digit-numbers-are-formed-using-digits-0-1-2-3-4-5-where-digits-are-not-repeated-basic-ideas-of-probability_1162",
+            "3. Khan Academy - Basic Probability: https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability"
+        ]
+    },
+    {
+        "prompt": "Give reference for If the face value of a share is 100 and market value is 150. If rate of brokerage is 2%, find brokerage paid on one share question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=6Dgnl8ChnaU",
+            "https://www.investopedia.com/terms/b/brokerage.asp",
+            "https://www.moneycontrol.com/glossary/stocks/brokerage_69.html",
+            "https://groww.in/p/brokerage/"
+        ]
+    },
+    {
+        "prompt": "Give reference for The divisor and quotient of the number 6123 are same and the remainder is half the divisor. Find the divisor. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=-SV1TBEh_C8",
+            "2. https://www.shaalaa.com/question-bank-solutions/the-divisor-quotient-number-6123-are-same-remainder-half-divisor-find-divisor-application-of-quadratic-equation_1139",
+            "3. Khan Academy - Algebra: https://www.khanacademy.org/math/algebra"
+        ]
+    },
+    {
+        "prompt": "Give reference for There are 15 tickets bearing the numbers from 1 to 15 in a bag and one ticket is drawn from this bag at random. Write the sample space (S) and n(S). question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=A%20sample%20space%20of%20an%20experiment%20is%20the,%7B%201%2C%202%2C%203%2C%204%2C%205%2C%206%20%7D",
+            "3. https://www.mathsisfun.com/data/probability.html",
+            "4. https://www.khanacademy.org/math/statistics-probability/probability-library"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Out of 100 students in a certain class, 70 students like Mathematics, 40 students like Science and 15 students like both Mathematics and Science. A student is selected at random. Find the probability that the student like Mathematics or Science. question from probability chapter",
+        "expected_output": [
+            "1. https://www.toppr.com/ask/question/out-of-100-students-in-a-certain-class-70-students/",
+            "2. https://www.youtube.com/watch?v=NX2ig2-G3iw",
+            "3. Refer the Probability Chapter from Textbook",
+            "4. https://www.cuemath.com/probability/probability-formula/",
+            "5. https://www.khanacademy.org/math/statistics-probability/probability-library"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the values of a, b, c for the quadratic equation 2x^2 = x + 3 by comparing with standard form ax^2 + bx + c = 0 question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=fYxZz05vHmw",
+            "2. https://www.geeksforgeeks.org/standard-form-of-quadratic-equation/",
+            "3. https://www.mathsisfun.com/algebra/quadratic-equation.html",
+            "4. https://byjus.com/maths/quadratic-equation-standard-form/"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on quadratic equation chapter for 3 marks",
+        "expected_output": [
+            " Solve the following quadratic equation by the method of completing square: z^2 + 6z 8 = 0",
+            "Solve the following quadratic equation by formula method: 3m2 m 10 = 0"
+        ]
+    },
+    {
+        "prompt": "Give reference for A two-digit number is formed with digits 2, 3, 5, 7, 9 without repetition. What is the probability of the following events? Event A: The number formed is an odd number. Event B: The number formed is a multiple of 5. question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=WZRUpW85CBQ",
+            "https://www.math-only-math.com/probability-of-an-event.html",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/probability/probability-geometry"
+        ]
+    },
+    {
+        "prompt": "Give reference for A balloon vendor has 2 red, 3 blue and 4 green balloons. He wants to choose one of them at random to give it to Pranali. What is the probability of the event that Pranali gets: 1. a red balloon. 2. a blue balloon. question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=3pMkH1j_37s",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:prob-basic/v/probability-1",
+            "https://en.wikipedia.org/wiki/Probability"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equations in two variables chapter for 3 marks",
+        "expected_output": [
+            "Solve the following simultaneous equations using Cramer s rule: 4x + 3y = 18; 3x 2y = 5."
+        ]
+    },
+    {
+        "prompt": "Give reference for Babubhai borrows ` 4,000 and agrees to repay with a total interest of ` 500 in 10 instalments, each instalment being less than the preceding instalment by ` 10. What should be the first and the last instalment? question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=woh4gC-egJA&t=1s",
+            "2. https://www.shaalaa.com/question-bank-solutions/one-person-borrows-4-000-and-agrees-to-repay-with-a-total-interest-of-500-in-10-instalments-each-instalment-being-less-than-the-preceding-instalment-by-10-arithmetic-progression_203574",
+            "3. Khan Academy - Arithmetic Sequences: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Find three consecutive terms in a G.P. such that the sum of the first two terms is 9 and the product of all the three terms is 216. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=I7S2U3rZ4Kw",
+            "2. https://www.onlinemath4all.com/find-the-terms-from-sum-and-product-of-3-consecutive-terms-of-gp.html",
+            "3. https://www.cuemath.com/numbers/geometric-progression/",
+            "4. https://www.toppr.com/ask/question/find-three-consecutive-terms-in-gp-such-that-the-sum-of-the-first-two/",
+            "5. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:geometric-sequences/v/geometric-sequences"
+        ]
+    },
+    {
+        "prompt": "Give reference for Two coins are tossed simultaneously. Write the sample space (S), n(S), the following event A using set notation and n(A), where A is the event of getting at least one head.  question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=4G87BBiL1go",
+            "2. https://www.shaalaa.com/question-bank-solutions/two-coins-are-tossed-simultaneously-write-the-sample-space-s-and-expected-sample-points-in-the-given-events-by-completing-the-activity-i-event-a-to-get-at-least-sample-space_205527",
+            "3. https://www.mathsisfun.com/data/probability.html",
+            "4. https://www.math-only-math.com/probability-of-tossing-two-coins.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the first two terms of the sequence whose nth term is tn = 3n 4. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=525Dwouk7a8",
+            "2. https://www.toppr.com/ask/question/find-the-term-t10-of-an-ap4-9-14/",
+            "3. Khan Academy - Arithmetic Sequences: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences/v/arithmetic-sequences-introduction"
+        ]
+    },
+    {
+        "prompt": "Give reference for If for an A.P. the first term is 11 and the common difference is ( 2), then find first three terms of A.P. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=vJIDzFtXWlw",
+            "2. https://www.toppr.com/ask/question/for-an-ap-t3-8-and-t4-12/",
+            "3. Khan Academy - Arithmetic Sequences: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences/v/arithmetic-sequences-introduction"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following simultaneous equations using Cramer s rule: 4m + 6n = 54; 3m + 2n = 28 question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=3r1y6L4v4lg",
+            "https://www.mathsisfun.com/algebra/cramers-rule.html",
+            "https://www.toppr.com/guides/maths/simultaneous-linear-equations/cramers-rule/",
+            "https://byjus.com/cramers-rule-formula/"
+        ]
+    },
+    {
+        "prompt": "Give reference for If the first term of an A.P. is p, second term is q and last term is r, then show that sum of all terms is (q+r-2p)*(p+r)/2(q-p) question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=ph5WTzYl_Gk",
+            "https://www.math-only-math.com/sum-of-first-n-terms-of-an-ap.html",
+            "https://byjus.com/maths/sum-of-first-n-terms-of-an-ap/",
+            "https://www.toppr.com/guides/maths/sum-of-first-n-terms-of-an-ap-formula/"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Solve the following simultaneous equations by using Cramer s rule: x + y = 10; x y = 2. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/solve-the-following-simultaneous-equations-using-cramer-s-rule-4m-6n-54-3m-2n-28-determinants-cramer-s-rule_49738",
+            "2. https://www.youtube.com/watch?v=LprQ_Id-8hE",
+            "3. https://www.cuemath.com/algebra/cramers-rule/",
+            "4. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-with-inverse-matrices/v/cramers-rule-2x2"
+        ]
+    },
+    {
+        "prompt": "Give reference for The following is the distribution of the size of certain farms from a taluka (tehasil): Size of Farms (in acres) Number of Farms 5 15 7 15 25 12 25 35 17 35 45 25 45 55 31 55 65 5 65 75 3 Find median size of farms. question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=k3aKKasOmIw",
+            "2. https://byjus.com/maths/mean-median-mode/",
+            "3. https://www.mathsisfun.com/median.html",
+            "4. https://www.math-only-math.com/median.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation using factorization method: x^2 + x 20 = 0 question from quadratic equation chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=JnnrDVt7CgI",
+            "https://www.mathsisfun.com/algebra/quadratic-equation-solving.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Draw the graph of the equation x + y = 4 and answer the following questions: a. Which type of triangle is formed by the line with X and Y-axes based on its sides. b. Find the area of that triangle. question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/geometry/triangles.html",
+            "https://www.mathwarehouse.com/geometry/triangles/triangle-types.php",
+            "https://www.splashlearn.com/math-vocabulary/geometry/triangle",
+            "https://www.geogebra.org/m/g5z8ghmv"
+        ]
+    },
+    {
+        "prompt": "Give reference for There are three boys and two girls. A committee of two is to be formed. Find the probability of events that the committee contains: a. at least one girl b. one boy and one girl c. only boys. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=q5T6p-_7Kic",
+            "2. https://www.vedantu.com/question-answer/there-are-three-boys-and-two-girls-a-committee-class-12-mathematics.-cbse-5ee705f147f3231af244762a",
+            "3. https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "4. https://byjus.com/maths/probability/"
+        ]
+    },
+    {
+        "prompt": "Give reference for If one coin is tossed, write the sample space S . question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fiTwar7mFwM",
+            "https://www.mathsisfun.com/data/probability-events-outcomes.html",
+            "https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/e/sample-spaces"
+        ]
+    },
+    {
+        "prompt": "Give reference for The tax levied by Central Government for trading within a state is: question from financial planning chapter",
+        "expected_output": [
+            "https://www.investopedia.com/terms/s/sales_tax.asp",
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.policybazaar.com/gst-in-india/",
+            "https://en.wikipedia.org/wiki/Sales_tax"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the common difference of the following A.P.: 2, 4, 6, 8,  question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.mathsisfun.com/algebra/arithmetic-sequences.html",
+            "https://www.toppr.com/guides/maths/arithmetic-progressions/arithmetic-progression-formulas-properties/",
+            "https://byjus.com/maths/arithmetic-progression-formula/"
+        ]
+    },
+    {
+        "prompt": "Give reference for The following is the frequency distribution of waiting time at ATM centre; draw histogram to represent the data: Waiting time (in seconds) Number of Customers 0 30 15 30 60 23 60 90 64 90 120 50 120 150 5 question from statistics chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=zWnMHcajiMI",
+            "2. https://www.shaalaa.com/question-bank-solutions/represent-the-following-data-by-histogram-price-of-sugar-per-kg-in-number-of-weeks-18-20-4-20-22-8-22-24-22-24-26-12-26-28-6-28-30-8-graphical-representation-of-data-as-histograms_203571",
+            "3. https://www.mathsisfun.com/data/histograms.html",
+            "4. https://www.intmath.com/counting-probability/14-mean-deviation.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for  Solve the following quadratic equation by the method of completing square: z^2 + 6z 8 = 0 question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics/x2f8bb11595b61c86:completing-the-square/v/completing-the-square",
+            "2. https://www.youtube.com/watch?v=LWGz9JD5GBw",
+            "3. https://www.cuemath.com/algebra/completing-the-square-method/",
+            "4. https://www.toppr.com/ask/question/solve-the-following-quadratic-equation-by-completing-the-square-method/",
+            "5. https://www.mathsisfun.com/algebra/completing-square.html"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on linear equations in two variables chapter for 5 marks",
+        "expected_output": [
+            "A boat takes 10 hours to travel 30 km upstream and 44 km downstream, but it takes 13 hours to travel 40 km upstream and 55 km downstream. Find the speed of the boat in still water and the speed of the stream."
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of k for which the given simultaneous equations have infinitely many solutions: kx + 4y = 10; 3x + 2y = 5. question from linear equations in two variable chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=Z6upqLtX9SE",
+            "2. https://www.shaalaa.com/question-bank-solutions/find-value-k-which-given-simultaneous-equations-have-infinitely-many-solutions-kx-4y-10-3x-2y-5-linear-equation-in-two-variables_11475",
+            "3. https://www.mathsisfun.com/algebra/systems-linear-equations-matrices.html",
+            "4. https://www.intmath.com/matrices-determinants/linear-equations-matrices.php"
+        ]
+    },
+    {
+        "prompt": "Give reference for A card is drawn from the pack of 25 cards labelled with numbers 1 to 25. Write the sample space for this random experiment. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=The%20three%20most%20common%20ways%20to%20find%20a,Create%20a%20Tree-Diagram.%203%20Use%20a%20Venn%20Diagram.",
+            "3. Khan Academy - Sample Spaces: https://www.khanacademy.org/math/precalculus/prob-comb/probability-precalc/v/sample-spaces"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of the following determinant: [4 3] [2 7] question from linear equation in two variable chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.mathsisfun.com/algebra/matrix-determinant.html",
+            "https://www.math-only-math.com/determinant-of-a-2x2-matrix.html",
+            "https://en.wikipedia.org/wiki/Determinant"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the median of: 66, 98, 54, 92, 87, 63, 72. question from statistics chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/median.html",
+            "https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/a/mean-median-and-mode-review",
+            "https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/median-mean-average/",
+            "https://en.wikipedia.org/wiki/Median"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the sum of all natural numbers between 100 and 1000 which are divisible by 12. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.shaalaa.com/question-bank-solutions/find-sum-all-natural-numbers-between-100-1000-which-are-divisible-12-introduction-to-sequence_49924",
+            "2. https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "3. https://www.mathsisfun.com/divisibility-rules.html",
+            "4. https://www.math-only-math.com/divisibility-rule-for-12.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for One person borrows 4,000 and agrees to repay with a total interest of 500 in 10 instalments. Each instalment being less than the preceding instalment by 10. What should be the first and the last instalments? question from financial planning chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=L6OWnVWVLMU",
+            "https://www.moneycontrol.com/personal-finance/education/compound-interest-calculate-formula-examples-2832481.html",
+            "https://www.investopedia.com/terms/c/compoundinterest.asp"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the quadratic equation whose roots are 2 and 3. question from quadratic equation chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=qqVTYLaYcoo",
+            "2. https://byjus.com/question-answer/write-the-quadratic-equation-whose-roots-are-2-and-3/",
+            "3. Khan Academy - Quadratic Equations: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find the value of x y if 3x + 2y = 15, 2x + 3y = 10. question from linear equations in two variables chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/algebra/linear-equations.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-of-equations-by-graphing/v/solving-systems-of-equations-by-graphing",
+            "https://www.purplemath.com/modules/systlin1.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for First term and common difference of an A.P. are 6 and 3 respectively. Find S27. question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=fzGzck_zmxs",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://www.khanacademy.org/math/algebra/sequences",
+            "https://en.wikipedia.org/wiki/Arithmetic_progression"
+        ]
+    },
+    {
+        "prompt": "Give reference for For an A.P., t7 = 4, d = 4, then a = question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=8k-_KRvVVzw",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://www.mathwarehouse.com/arithmetic-series/interactive-arithmetic-series-graph.php",
+            "https://www.purplemath.com/modules/series4.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for A card is drawn from well-shuffled pack of 52 playing cards. Find the probability that the card drawn is a face card. question from probability chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=OZzPGhlh2Sw",
+            "https://www.mathsisfun.com/data/probability-events.html",
+            "https://www.khanacademy.org/math/precalculus/prob-comb/prob-comb-overview/v/probability-and-combinations",
+            "https://www.purplemath.com/modules/probabil2.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for  A die is thrown. Find the probability of the following events: a. getting a number greater than 3 on the upper surface b. getting an even number on the upper surface. question from probability chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=iqPrYs1zJKo",
+            "2. https://calcworkshop.com/probability/sample-space/#:~:text=The%20three%20most%20common%20ways%20to%20find%20a,Create%20a%20Tree-Diagram.%203%20Use%20a%20Venn%20Diagram.",
+            "3. https://www.cuemath.com/probability/probability-of-rolling-dice/",
+            "4. https://www.khanacademy.org/math/statistics-probability/probability-library",
+            "5. https://www.mathsisfun.com/data/probability-dice.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Write the following polynomial in coefficient form: 2x^3 + x^2 3x + 4. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=3i1r6X4dfLs",
+            "https://www.mathsisfun.com/algebra/polynomials.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:polynomials/v/x2f8bb11595b61c86:an-introduction-to-polynomials",
+            "https://en.wikipedia.org/wiki/Polynomial"
+        ]
+    },
+    {
+        "prompt": "Generate questions based on quadratic equation chapter for 4 marks",
+        "expected_output": [
+            " Solve the quadratic equation by using the formula method: 4x^2 + 7x + 2 = 0."
+        ]
+    },
+    {
+        "prompt": "Give reference for If the 9th term of an A.P. is zero, then prove that 29th term is double of 19th term. question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=bBo1sBilH_I",
+            "https://www.mathsisfun.com/algebra/sequences-series.html",
+            "https://www.purplemath.com/modules/series.htm",
+            "https://www.khanacademy.org/math/precalculus/seq-induction/sum-arithmetic-series/a/arithmetic-series-formula"
+        ]
+    },
+    {
+        "prompt": "Give reference for For a certain frequency distribution, the values of mean and median are 72 and 78 respectively. Find the value of mode. question from statistics chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/data/mean-median-mode.html",
+            "https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/a/mean-median-and-mode-review",
+            "https://www.statisticshowto.com/mode/",
+            "https://www.mathsisfun.com/definitions/mode-statistics-.html"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the equation 4x^2 + 7x + 2 = 0 by using formula method. question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=IlNAJl36-10",
+            "2. https://www.embibe.com/exams/methods-of-solving-quadratic-equations/",
+            "3. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics/x2f8bb11595b61c86:solving-quadratics-using-the-quadratic-formula/v/solving-quadratics-with-the-quadratic-formula",
+            "4. https://www.cuemath.com/algebra/quadratic-equations/"
+        ]
+    },
+    {
+        "prompt": "Give reference for If one root of the quadratic equation kx^2 7x + 5 = 0 is 1, then find the value of k. question from quadratic equations chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=LFsdLqdqrOE",
+            "2. https://www.toppr.com/ask/question/if-one-root-of-the-quadratic-equationkx2-7x/",
+            "3. Khan Academy - Quadratic Formula: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+        ]
+    },
+    {
+        "prompt": "Give reference for Find first term of the sequence tn = 3n 2. question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=nVUS0HEnWmI",
+            "https://www.mathsisfun.com/algebra/sequences-sums-arithmetic.html",
+            "https://byjus.com/maths/arithmetic-progression-ap/",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences"
+        ]
+    },
+    {
+        "prompt": "Give reference for In an A.P. sum of three consecutive terms is 27 and their products is 504. Find the terms. (Assume that three consecutive terms in an A.P. are a d, a, a + d.) question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=-FWCvtC2hP0",
+            "https://www.mathsisfun.com/algebra/sequences-sums-arithmetic.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences/v/arithmetic-series",
+            "https://en.wikipedia.org/wiki/Arithmetic_progression"
+        ]
+    },
+    {
+        "prompt": "Give reference for A two digit number is formed with digits 2, 3, 5, 7, 9 without repetition. What is the probability that the number formed is an odd number? question from arithmetic progression chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=rrhBtFNCRLg",
+            "https://www.mathsisfun.com/combinatorics/combinations-permutations.html",
+            "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:basic-prob-comb/v/probability-of-selecting-even-or-odd-number",
+            "https://en.wikipedia.org/wiki/Permutation"
+        ]
+    },
+    {
+        "prompt": "Give reference for Form the quadratic equation if its roots are 3 and 4. question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.mathsisfun.com/algebra/quadratic-equation.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://en.wikipedia.org/wiki/Quadratic_equation"
+        ]
+    },
+    {
+        "prompt": "Give reference for Solve the following quadratic equation by formula method: x^2 + 10x + 2 = 0 question from quadratic equations chapter",
+        "expected_output": [
+            "https://www.youtube.com/watch?v=NT_4S2eFOJ4",
+            "https://www.mathsisfun.com/quadratic-equations.html",
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations",
+            "https://www.purplemath.com/modules/quadform.htm"
+        ]
+    },
+    {
+        "prompt": "Give reference for If m times mth term of an A.P. is equal to n times its nth term, then show that (m + n)th term of the A.P. is zero. question from arithmetic progression chapter",
+        "expected_output": [
+            "1. https://www.youtube.com/watch?v=6d2AE0gdCIg",
+            "2. https://byjus.com/question-answer/if-m-times-the-mth-term-of-an-ap-is-equal-to-n-times-the/",
+            "3. Khan Academy - Arithmetic Sequences: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:arithmetic-sequences/v/recognizing-arithmetic-sequences",
+            "4. Math is Fun - Arithmetic Sequences: https://www.mathsisfun.com/algebra/sequences-finding-term.html"
+        ]
+    }
+]
